@@ -1,0 +1,1657 @@
+,Region,year_month,Car CPI,Semiconductor PPI,DMA
+0,"Atlanta-Sandy Springs-Roswell, GA",2017-01-01,,56.0,Atlanta GA
+1,"Baltimore-Columbia-Towson, MD",2017-01-01,,56.0,Baltimore MD
+2,"Boston-Cambridge-Newton, MA-NH",2017-01-01,,56.0,Boston MA-Manchester NH
+3,"Chicago-Naperville-Elgin, IL-IN-WI",2017-01-01,,56.0,Chicago IL
+4,"Dallas-Fort Worth-Arlington, TX",2017-01-01,,56.0,Dallas-Ft. Worth TX
+5,"Denver-Aurora-Lakewood, CO",2017-01-01,,56.0,Denver CO
+6,"Detroit-Warren-Dearborn, MI",2017-01-01,,56.0,Detroit MI
+7,"Houston-The Woodlands-Sugar Land, TX",2017-01-01,,56.0,Houston TX
+8,"Los Angeles-Long Beach-Anaheim, CA",2017-01-01,,56.0,Los Angeles CA
+9,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-01-01,,56.0,Miami-Ft. Lauderdale FL
+10,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-01-01,,56.0,Minneapolis-St. Paul MN
+11,"New York-Newark-Jersey City, NY-NJ-PA",2017-01-01,,56.0,New York NY
+12,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-01-01,,56.0,Philadelphia PA
+13,"Phoenix-Mesa-Scottsdale, AZ",2017-01-01,,56.0,Phoenix AZ
+14,"Riverside-San Bernardino-Ontario, CA",2017-01-01,,56.0,
+15,"San Diego-Carlsbad, CA",2017-01-01,,56.0,San Diego CA
+16,"San Francisco-Oakland-Hayward, CA",2017-01-01,,56.0,San Francisco-Oakland-San Jose CA
+17,Seattle-Tacoma-Bellevue WA,2017-01-01,,56.0,Seattle-Tacoma WA
+18,"St. Louis, MO-IL",2017-01-01,,56.0,St. Louis MO
+19,"Tampa-St. Petersburg-Clearwater, FL",2017-01-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+20,Urban Alaska,2017-01-01,,56.0,Anchorage AK
+21,Urban Hawaii,2017-01-01,,56.0,Honolulu HI
+22,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-01-01,,56.0,Washington DC (Hagerstown MD)
+23,"Atlanta-Sandy Springs-Roswell, GA",2017-02-01,,56.0,Atlanta GA
+24,"Baltimore-Columbia-Towson, MD",2017-02-01,,56.0,Baltimore MD
+25,"Boston-Cambridge-Newton, MA-NH",2017-02-01,,56.0,Boston MA-Manchester NH
+26,"Chicago-Naperville-Elgin, IL-IN-WI",2017-02-01,,56.0,Chicago IL
+27,"Dallas-Fort Worth-Arlington, TX",2017-02-01,,56.0,Dallas-Ft. Worth TX
+28,"Denver-Aurora-Lakewood, CO",2017-02-01,,56.0,Denver CO
+29,"Detroit-Warren-Dearborn, MI",2017-02-01,,56.0,Detroit MI
+30,"Houston-The Woodlands-Sugar Land, TX",2017-02-01,,56.0,Houston TX
+31,"Los Angeles-Long Beach-Anaheim, CA",2017-02-01,,56.0,Los Angeles CA
+32,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-02-01,,56.0,Miami-Ft. Lauderdale FL
+33,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-02-01,,56.0,Minneapolis-St. Paul MN
+34,"New York-Newark-Jersey City, NY-NJ-PA",2017-02-01,,56.0,New York NY
+35,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-02-01,,56.0,Philadelphia PA
+36,"Phoenix-Mesa-Scottsdale, AZ",2017-02-01,,56.0,Phoenix AZ
+37,"Riverside-San Bernardino-Ontario, CA",2017-02-01,,56.0,
+38,"San Diego-Carlsbad, CA",2017-02-01,,56.0,San Diego CA
+39,"San Francisco-Oakland-Hayward, CA",2017-02-01,,56.0,San Francisco-Oakland-San Jose CA
+40,Seattle-Tacoma-Bellevue WA,2017-02-01,,56.0,Seattle-Tacoma WA
+41,"St. Louis, MO-IL",2017-02-01,,56.0,St. Louis MO
+42,"Tampa-St. Petersburg-Clearwater, FL",2017-02-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+43,Urban Alaska,2017-02-01,,56.0,Anchorage AK
+44,Urban Hawaii,2017-02-01,,56.0,Honolulu HI
+45,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-02-01,,56.0,Washington DC (Hagerstown MD)
+46,"Atlanta-Sandy Springs-Roswell, GA",2017-03-01,,56.0,Atlanta GA
+47,"Baltimore-Columbia-Towson, MD",2017-03-01,,56.0,Baltimore MD
+48,"Boston-Cambridge-Newton, MA-NH",2017-03-01,,56.0,Boston MA-Manchester NH
+49,"Chicago-Naperville-Elgin, IL-IN-WI",2017-03-01,,56.0,Chicago IL
+50,"Dallas-Fort Worth-Arlington, TX",2017-03-01,,56.0,Dallas-Ft. Worth TX
+51,"Denver-Aurora-Lakewood, CO",2017-03-01,,56.0,Denver CO
+52,"Detroit-Warren-Dearborn, MI",2017-03-01,,56.0,Detroit MI
+53,"Houston-The Woodlands-Sugar Land, TX",2017-03-01,,56.0,Houston TX
+54,"Los Angeles-Long Beach-Anaheim, CA",2017-03-01,,56.0,Los Angeles CA
+55,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-03-01,,56.0,Miami-Ft. Lauderdale FL
+56,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-03-01,,56.0,Minneapolis-St. Paul MN
+57,"New York-Newark-Jersey City, NY-NJ-PA",2017-03-01,,56.0,New York NY
+58,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-03-01,,56.0,Philadelphia PA
+59,"Phoenix-Mesa-Scottsdale, AZ",2017-03-01,,56.0,Phoenix AZ
+60,"Riverside-San Bernardino-Ontario, CA",2017-03-01,,56.0,
+61,"San Diego-Carlsbad, CA",2017-03-01,,56.0,San Diego CA
+62,"San Francisco-Oakland-Hayward, CA",2017-03-01,,56.0,San Francisco-Oakland-San Jose CA
+63,Seattle-Tacoma-Bellevue WA,2017-03-01,,56.0,Seattle-Tacoma WA
+64,"St. Louis, MO-IL",2017-03-01,,56.0,St. Louis MO
+65,"Tampa-St. Petersburg-Clearwater, FL",2017-03-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+66,Urban Alaska,2017-03-01,,56.0,Anchorage AK
+67,Urban Hawaii,2017-03-01,,56.0,Honolulu HI
+68,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-03-01,,56.0,Washington DC (Hagerstown MD)
+69,"Atlanta-Sandy Springs-Roswell, GA",2017-04-01,,56.0,Atlanta GA
+70,"Baltimore-Columbia-Towson, MD",2017-04-01,,56.0,Baltimore MD
+71,"Boston-Cambridge-Newton, MA-NH",2017-04-01,,56.0,Boston MA-Manchester NH
+72,"Chicago-Naperville-Elgin, IL-IN-WI",2017-04-01,,56.0,Chicago IL
+73,"Dallas-Fort Worth-Arlington, TX",2017-04-01,,56.0,Dallas-Ft. Worth TX
+74,"Denver-Aurora-Lakewood, CO",2017-04-01,,56.0,Denver CO
+75,"Detroit-Warren-Dearborn, MI",2017-04-01,,56.0,Detroit MI
+76,"Houston-The Woodlands-Sugar Land, TX",2017-04-01,,56.0,Houston TX
+77,"Los Angeles-Long Beach-Anaheim, CA",2017-04-01,,56.0,Los Angeles CA
+78,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-04-01,,56.0,Miami-Ft. Lauderdale FL
+79,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-04-01,,56.0,Minneapolis-St. Paul MN
+80,"New York-Newark-Jersey City, NY-NJ-PA",2017-04-01,,56.0,New York NY
+81,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-04-01,,56.0,Philadelphia PA
+82,"Phoenix-Mesa-Scottsdale, AZ",2017-04-01,,56.0,Phoenix AZ
+83,"Riverside-San Bernardino-Ontario, CA",2017-04-01,,56.0,
+84,"San Diego-Carlsbad, CA",2017-04-01,,56.0,San Diego CA
+85,"San Francisco-Oakland-Hayward, CA",2017-04-01,,56.0,San Francisco-Oakland-San Jose CA
+86,Seattle-Tacoma-Bellevue WA,2017-04-01,,56.0,Seattle-Tacoma WA
+87,"St. Louis, MO-IL",2017-04-01,,56.0,St. Louis MO
+88,"Tampa-St. Petersburg-Clearwater, FL",2017-04-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+89,Urban Alaska,2017-04-01,,56.0,Anchorage AK
+90,Urban Hawaii,2017-04-01,,56.0,Honolulu HI
+91,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-04-01,,56.0,Washington DC (Hagerstown MD)
+92,"Atlanta-Sandy Springs-Roswell, GA",2017-05-01,,56.0,Atlanta GA
+93,"Baltimore-Columbia-Towson, MD",2017-05-01,,56.0,Baltimore MD
+94,"Boston-Cambridge-Newton, MA-NH",2017-05-01,,56.0,Boston MA-Manchester NH
+95,"Chicago-Naperville-Elgin, IL-IN-WI",2017-05-01,,56.0,Chicago IL
+96,"Dallas-Fort Worth-Arlington, TX",2017-05-01,,56.0,Dallas-Ft. Worth TX
+97,"Denver-Aurora-Lakewood, CO",2017-05-01,,56.0,Denver CO
+98,"Detroit-Warren-Dearborn, MI",2017-05-01,,56.0,Detroit MI
+99,"Houston-The Woodlands-Sugar Land, TX",2017-05-01,,56.0,Houston TX
+100,"Los Angeles-Long Beach-Anaheim, CA",2017-05-01,,56.0,Los Angeles CA
+101,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-05-01,,56.0,Miami-Ft. Lauderdale FL
+102,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-05-01,,56.0,Minneapolis-St. Paul MN
+103,"New York-Newark-Jersey City, NY-NJ-PA",2017-05-01,,56.0,New York NY
+104,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-05-01,,56.0,Philadelphia PA
+105,"Phoenix-Mesa-Scottsdale, AZ",2017-05-01,,56.0,Phoenix AZ
+106,"Riverside-San Bernardino-Ontario, CA",2017-05-01,,56.0,
+107,"San Diego-Carlsbad, CA",2017-05-01,,56.0,San Diego CA
+108,"San Francisco-Oakland-Hayward, CA",2017-05-01,,56.0,San Francisco-Oakland-San Jose CA
+109,Seattle-Tacoma-Bellevue WA,2017-05-01,,56.0,Seattle-Tacoma WA
+110,"St. Louis, MO-IL",2017-05-01,,56.0,St. Louis MO
+111,"Tampa-St. Petersburg-Clearwater, FL",2017-05-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+112,Urban Alaska,2017-05-01,,56.0,Anchorage AK
+113,Urban Hawaii,2017-05-01,,56.0,Honolulu HI
+114,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-05-01,,56.0,Washington DC (Hagerstown MD)
+115,"Atlanta-Sandy Springs-Roswell, GA",2017-06-01,,56.0,Atlanta GA
+116,"Baltimore-Columbia-Towson, MD",2017-06-01,,56.0,Baltimore MD
+117,"Boston-Cambridge-Newton, MA-NH",2017-06-01,,56.0,Boston MA-Manchester NH
+118,"Chicago-Naperville-Elgin, IL-IN-WI",2017-06-01,,56.0,Chicago IL
+119,"Dallas-Fort Worth-Arlington, TX",2017-06-01,,56.0,Dallas-Ft. Worth TX
+120,"Denver-Aurora-Lakewood, CO",2017-06-01,,56.0,Denver CO
+121,"Detroit-Warren-Dearborn, MI",2017-06-01,,56.0,Detroit MI
+122,"Houston-The Woodlands-Sugar Land, TX",2017-06-01,,56.0,Houston TX
+123,"Los Angeles-Long Beach-Anaheim, CA",2017-06-01,,56.0,Los Angeles CA
+124,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-06-01,,56.0,Miami-Ft. Lauderdale FL
+125,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-06-01,,56.0,Minneapolis-St. Paul MN
+126,"New York-Newark-Jersey City, NY-NJ-PA",2017-06-01,,56.0,New York NY
+127,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-06-01,,56.0,Philadelphia PA
+128,"Phoenix-Mesa-Scottsdale, AZ",2017-06-01,,56.0,Phoenix AZ
+129,"Riverside-San Bernardino-Ontario, CA",2017-06-01,,56.0,
+130,"San Diego-Carlsbad, CA",2017-06-01,,56.0,San Diego CA
+131,"San Francisco-Oakland-Hayward, CA",2017-06-01,,56.0,San Francisco-Oakland-San Jose CA
+132,Seattle-Tacoma-Bellevue WA,2017-06-01,,56.0,Seattle-Tacoma WA
+133,"St. Louis, MO-IL",2017-06-01,,56.0,St. Louis MO
+134,"Tampa-St. Petersburg-Clearwater, FL",2017-06-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+135,Urban Alaska,2017-06-01,,56.0,Anchorage AK
+136,Urban Hawaii,2017-06-01,,56.0,Honolulu HI
+137,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-06-01,,56.0,Washington DC (Hagerstown MD)
+138,"Atlanta-Sandy Springs-Roswell, GA",2017-07-01,,56.0,Atlanta GA
+139,"Baltimore-Columbia-Towson, MD",2017-07-01,,56.0,Baltimore MD
+140,"Boston-Cambridge-Newton, MA-NH",2017-07-01,,56.0,Boston MA-Manchester NH
+141,"Chicago-Naperville-Elgin, IL-IN-WI",2017-07-01,,56.0,Chicago IL
+142,"Dallas-Fort Worth-Arlington, TX",2017-07-01,,56.0,Dallas-Ft. Worth TX
+143,"Denver-Aurora-Lakewood, CO",2017-07-01,,56.0,Denver CO
+144,"Detroit-Warren-Dearborn, MI",2017-07-01,,56.0,Detroit MI
+145,"Houston-The Woodlands-Sugar Land, TX",2017-07-01,,56.0,Houston TX
+146,"Los Angeles-Long Beach-Anaheim, CA",2017-07-01,,56.0,Los Angeles CA
+147,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-07-01,,56.0,Miami-Ft. Lauderdale FL
+148,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-07-01,,56.0,Minneapolis-St. Paul MN
+149,"New York-Newark-Jersey City, NY-NJ-PA",2017-07-01,,56.0,New York NY
+150,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-07-01,,56.0,Philadelphia PA
+151,"Phoenix-Mesa-Scottsdale, AZ",2017-07-01,,56.0,Phoenix AZ
+152,"Riverside-San Bernardino-Ontario, CA",2017-07-01,,56.0,
+153,"San Diego-Carlsbad, CA",2017-07-01,,56.0,San Diego CA
+154,"San Francisco-Oakland-Hayward, CA",2017-07-01,,56.0,San Francisco-Oakland-San Jose CA
+155,Seattle-Tacoma-Bellevue WA,2017-07-01,,56.0,Seattle-Tacoma WA
+156,"St. Louis, MO-IL",2017-07-01,,56.0,St. Louis MO
+157,"Tampa-St. Petersburg-Clearwater, FL",2017-07-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+158,Urban Alaska,2017-07-01,,56.0,Anchorage AK
+159,Urban Hawaii,2017-07-01,,56.0,Honolulu HI
+160,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-07-01,,56.0,Washington DC (Hagerstown MD)
+161,"Atlanta-Sandy Springs-Roswell, GA",2017-08-01,,56.0,Atlanta GA
+162,"Baltimore-Columbia-Towson, MD",2017-08-01,,56.0,Baltimore MD
+163,"Boston-Cambridge-Newton, MA-NH",2017-08-01,,56.0,Boston MA-Manchester NH
+164,"Chicago-Naperville-Elgin, IL-IN-WI",2017-08-01,,56.0,Chicago IL
+165,"Dallas-Fort Worth-Arlington, TX",2017-08-01,,56.0,Dallas-Ft. Worth TX
+166,"Denver-Aurora-Lakewood, CO",2017-08-01,,56.0,Denver CO
+167,"Detroit-Warren-Dearborn, MI",2017-08-01,,56.0,Detroit MI
+168,"Houston-The Woodlands-Sugar Land, TX",2017-08-01,,56.0,Houston TX
+169,"Los Angeles-Long Beach-Anaheim, CA",2017-08-01,,56.0,Los Angeles CA
+170,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-08-01,,56.0,Miami-Ft. Lauderdale FL
+171,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-08-01,,56.0,Minneapolis-St. Paul MN
+172,"New York-Newark-Jersey City, NY-NJ-PA",2017-08-01,,56.0,New York NY
+173,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-08-01,,56.0,Philadelphia PA
+174,"Phoenix-Mesa-Scottsdale, AZ",2017-08-01,,56.0,Phoenix AZ
+175,"Riverside-San Bernardino-Ontario, CA",2017-08-01,,56.0,
+176,"San Diego-Carlsbad, CA",2017-08-01,,56.0,San Diego CA
+177,"San Francisco-Oakland-Hayward, CA",2017-08-01,,56.0,San Francisco-Oakland-San Jose CA
+178,Seattle-Tacoma-Bellevue WA,2017-08-01,,56.0,Seattle-Tacoma WA
+179,"St. Louis, MO-IL",2017-08-01,,56.0,St. Louis MO
+180,"Tampa-St. Petersburg-Clearwater, FL",2017-08-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+181,Urban Alaska,2017-08-01,,56.0,Anchorage AK
+182,Urban Hawaii,2017-08-01,,56.0,Honolulu HI
+183,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-08-01,,56.0,Washington DC (Hagerstown MD)
+184,"Atlanta-Sandy Springs-Roswell, GA",2017-09-01,,56.0,Atlanta GA
+185,"Baltimore-Columbia-Towson, MD",2017-09-01,,56.0,Baltimore MD
+186,"Boston-Cambridge-Newton, MA-NH",2017-09-01,,56.0,Boston MA-Manchester NH
+187,"Chicago-Naperville-Elgin, IL-IN-WI",2017-09-01,,56.0,Chicago IL
+188,"Dallas-Fort Worth-Arlington, TX",2017-09-01,,56.0,Dallas-Ft. Worth TX
+189,"Denver-Aurora-Lakewood, CO",2017-09-01,,56.0,Denver CO
+190,"Detroit-Warren-Dearborn, MI",2017-09-01,,56.0,Detroit MI
+191,"Houston-The Woodlands-Sugar Land, TX",2017-09-01,,56.0,Houston TX
+192,"Los Angeles-Long Beach-Anaheim, CA",2017-09-01,,56.0,Los Angeles CA
+193,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-09-01,,56.0,Miami-Ft. Lauderdale FL
+194,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-09-01,,56.0,Minneapolis-St. Paul MN
+195,"New York-Newark-Jersey City, NY-NJ-PA",2017-09-01,,56.0,New York NY
+196,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-09-01,,56.0,Philadelphia PA
+197,"Phoenix-Mesa-Scottsdale, AZ",2017-09-01,,56.0,Phoenix AZ
+198,"Riverside-San Bernardino-Ontario, CA",2017-09-01,,56.0,
+199,"San Diego-Carlsbad, CA",2017-09-01,,56.0,San Diego CA
+200,"San Francisco-Oakland-Hayward, CA",2017-09-01,,56.0,San Francisco-Oakland-San Jose CA
+201,Seattle-Tacoma-Bellevue WA,2017-09-01,,56.0,Seattle-Tacoma WA
+202,"St. Louis, MO-IL",2017-09-01,,56.0,St. Louis MO
+203,"Tampa-St. Petersburg-Clearwater, FL",2017-09-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+204,Urban Alaska,2017-09-01,,56.0,Anchorage AK
+205,Urban Hawaii,2017-09-01,,56.0,Honolulu HI
+206,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-09-01,,56.0,Washington DC (Hagerstown MD)
+207,"Atlanta-Sandy Springs-Roswell, GA",2017-10-01,,56.0,Atlanta GA
+208,"Baltimore-Columbia-Towson, MD",2017-10-01,,56.0,Baltimore MD
+209,"Boston-Cambridge-Newton, MA-NH",2017-10-01,,56.0,Boston MA-Manchester NH
+210,"Chicago-Naperville-Elgin, IL-IN-WI",2017-10-01,,56.0,Chicago IL
+211,"Dallas-Fort Worth-Arlington, TX",2017-10-01,,56.0,Dallas-Ft. Worth TX
+212,"Denver-Aurora-Lakewood, CO",2017-10-01,,56.0,Denver CO
+213,"Detroit-Warren-Dearborn, MI",2017-10-01,,56.0,Detroit MI
+214,"Houston-The Woodlands-Sugar Land, TX",2017-10-01,,56.0,Houston TX
+215,"Los Angeles-Long Beach-Anaheim, CA",2017-10-01,,56.0,Los Angeles CA
+216,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-10-01,,56.0,Miami-Ft. Lauderdale FL
+217,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-10-01,,56.0,Minneapolis-St. Paul MN
+218,"New York-Newark-Jersey City, NY-NJ-PA",2017-10-01,,56.0,New York NY
+219,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-10-01,,56.0,Philadelphia PA
+220,"Phoenix-Mesa-Scottsdale, AZ",2017-10-01,,56.0,Phoenix AZ
+221,"Riverside-San Bernardino-Ontario, CA",2017-10-01,,56.0,
+222,"San Diego-Carlsbad, CA",2017-10-01,,56.0,San Diego CA
+223,"San Francisco-Oakland-Hayward, CA",2017-10-01,,56.0,San Francisco-Oakland-San Jose CA
+224,Seattle-Tacoma-Bellevue WA,2017-10-01,,56.0,Seattle-Tacoma WA
+225,"St. Louis, MO-IL",2017-10-01,,56.0,St. Louis MO
+226,"Tampa-St. Petersburg-Clearwater, FL",2017-10-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+227,Urban Alaska,2017-10-01,,56.0,Anchorage AK
+228,Urban Hawaii,2017-10-01,,56.0,Honolulu HI
+229,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-10-01,,56.0,Washington DC (Hagerstown MD)
+230,"Atlanta-Sandy Springs-Roswell, GA",2017-11-01,,56.0,Atlanta GA
+231,"Baltimore-Columbia-Towson, MD",2017-11-01,,56.0,Baltimore MD
+232,"Boston-Cambridge-Newton, MA-NH",2017-11-01,100.105,56.0,Boston MA-Manchester NH
+233,"Chicago-Naperville-Elgin, IL-IN-WI",2017-11-01,,56.0,Chicago IL
+234,"Dallas-Fort Worth-Arlington, TX",2017-11-01,104.896,56.0,Dallas-Ft. Worth TX
+235,"Denver-Aurora-Lakewood, CO",2017-11-01,107.209,56.0,Denver CO
+236,"Detroit-Warren-Dearborn, MI",2017-11-01,,56.0,Detroit MI
+237,"Houston-The Woodlands-Sugar Land, TX",2017-11-01,,56.0,Houston TX
+238,"Los Angeles-Long Beach-Anaheim, CA",2017-11-01,,56.0,Los Angeles CA
+239,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-11-01,,56.0,Miami-Ft. Lauderdale FL
+240,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-11-01,89.871,56.0,Minneapolis-St. Paul MN
+241,"New York-Newark-Jersey City, NY-NJ-PA",2017-11-01,,56.0,New York NY
+242,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-11-01,,56.0,Philadelphia PA
+243,"Phoenix-Mesa-Scottsdale, AZ",2017-11-01,,56.0,Phoenix AZ
+244,"Riverside-San Bernardino-Ontario, CA",2017-11-01,,56.0,
+245,"San Diego-Carlsbad, CA",2017-11-01,104.527,56.0,San Diego CA
+246,"San Francisco-Oakland-Hayward, CA",2017-11-01,,56.0,San Francisco-Oakland-San Jose CA
+247,Seattle-Tacoma-Bellevue WA,2017-11-01,,56.0,Seattle-Tacoma WA
+248,"St. Louis, MO-IL",2017-11-01,,56.0,St. Louis MO
+249,"Tampa-St. Petersburg-Clearwater, FL",2017-11-01,107.044,56.0,Tampa-St. Petersburg (Sarasota) FL
+250,Urban Alaska,2017-11-01,,56.0,Anchorage AK
+251,Urban Hawaii,2017-11-01,107.927,56.0,Honolulu HI
+252,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-11-01,92.639,56.0,Washington DC (Hagerstown MD)
+253,"Atlanta-Sandy Springs-Roswell, GA",2017-12-01,107.991,56.0,Atlanta GA
+254,"Baltimore-Columbia-Towson, MD",2017-12-01,99.723,56.0,Baltimore MD
+255,"Boston-Cambridge-Newton, MA-NH",2017-12-01,,56.0,Boston MA-Manchester NH
+256,"Chicago-Naperville-Elgin, IL-IN-WI",2017-12-01,96.477,56.0,Chicago IL
+257,"Dallas-Fort Worth-Arlington, TX",2017-12-01,,56.0,Dallas-Ft. Worth TX
+258,"Denver-Aurora-Lakewood, CO",2017-12-01,,56.0,Denver CO
+259,"Detroit-Warren-Dearborn, MI",2017-12-01,106.818,56.0,Detroit MI
+260,"Houston-The Woodlands-Sugar Land, TX",2017-12-01,86.864,56.0,Houston TX
+261,"Los Angeles-Long Beach-Anaheim, CA",2017-12-01,91.726,56.0,Los Angeles CA
+262,"Miami-Fort Lauderdale-West Palm Beach, FL",2017-12-01,115.819,56.0,Miami-Ft. Lauderdale FL
+263,"Minneapolis-St.Paul-Bloomington, MN-WI",2017-12-01,,56.0,Minneapolis-St. Paul MN
+264,"New York-Newark-Jersey City, NY-NJ-PA",2017-12-01,91.871,56.0,New York NY
+265,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017-12-01,95.018,56.0,Philadelphia PA
+266,"Phoenix-Mesa-Scottsdale, AZ",2017-12-01,92.973,56.0,Phoenix AZ
+267,"Riverside-San Bernardino-Ontario, CA",2017-12-01,100,56.0,
+268,"San Diego-Carlsbad, CA",2017-12-01,,56.0,San Diego CA
+269,"San Francisco-Oakland-Hayward, CA",2017-12-01,94.942,56.0,San Francisco-Oakland-San Jose CA
+270,Seattle-Tacoma-Bellevue WA,2017-12-01,98.683,56.0,Seattle-Tacoma WA
+271,"St. Louis, MO-IL",2017-12-01,90.262,56.0,St. Louis MO
+272,"Tampa-St. Petersburg-Clearwater, FL",2017-12-01,,56.0,Tampa-St. Petersburg (Sarasota) FL
+273,Urban Alaska,2017-12-01,,56.0,Anchorage AK
+274,Urban Hawaii,2017-12-01,,56.0,Honolulu HI
+275,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017-12-01,,56.0,Washington DC (Hagerstown MD)
+276,"Atlanta-Sandy Springs-Roswell, GA",2018-01-01,,56.1,Atlanta GA
+277,"Baltimore-Columbia-Towson, MD",2018-01-01,,56.1,Baltimore MD
+278,"Boston-Cambridge-Newton, MA-NH",2018-01-01,103.78,56.1,Boston MA-Manchester NH
+279,"Chicago-Naperville-Elgin, IL-IN-WI",2018-01-01,95.848,56.1,Chicago IL
+280,"Dallas-Fort Worth-Arlington, TX",2018-01-01,106.787,56.1,Dallas-Ft. Worth TX
+281,"Denver-Aurora-Lakewood, CO",2018-01-01,107.538,56.1,Denver CO
+282,"Detroit-Warren-Dearborn, MI",2018-01-01,,56.1,Detroit MI
+283,"Houston-The Woodlands-Sugar Land, TX",2018-01-01,,56.1,Houston TX
+284,"Los Angeles-Long Beach-Anaheim, CA",2018-01-01,92.284,56.1,Los Angeles CA
+285,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-01-01,,56.1,Miami-Ft. Lauderdale FL
+286,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-01-01,88.443,56.1,Minneapolis-St. Paul MN
+287,"New York-Newark-Jersey City, NY-NJ-PA",2018-01-01,91.715,56.1,New York NY
+288,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-01-01,,56.1,Philadelphia PA
+289,"Phoenix-Mesa-Scottsdale, AZ",2018-01-01,,56.1,Phoenix AZ
+290,"Riverside-San Bernardino-Ontario, CA",2018-01-01,100.935,56.1,
+291,"San Diego-Carlsbad, CA",2018-01-01,106.44,56.1,San Diego CA
+292,"San Francisco-Oakland-Hayward, CA",2018-01-01,,56.1,San Francisco-Oakland-San Jose CA
+293,Seattle-Tacoma-Bellevue WA,2018-01-01,,56.1,Seattle-Tacoma WA
+294,"St. Louis, MO-IL",2018-01-01,,56.1,St. Louis MO
+295,"Tampa-St. Petersburg-Clearwater, FL",2018-01-01,106.389,56.1,Tampa-St. Petersburg (Sarasota) FL
+296,Urban Alaska,2018-01-01,,56.1,Anchorage AK
+297,Urban Hawaii,2018-01-01,108.649,56.1,Honolulu HI
+298,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-01-01,92.4,56.1,Washington DC (Hagerstown MD)
+299,"Atlanta-Sandy Springs-Roswell, GA",2018-02-01,104.668,56.3,Atlanta GA
+300,"Baltimore-Columbia-Towson, MD",2018-02-01,100.42,56.3,Baltimore MD
+301,"Boston-Cambridge-Newton, MA-NH",2018-02-01,,56.3,Boston MA-Manchester NH
+302,"Chicago-Naperville-Elgin, IL-IN-WI",2018-02-01,95.531,56.3,Chicago IL
+303,"Dallas-Fort Worth-Arlington, TX",2018-02-01,,56.3,Dallas-Ft. Worth TX
+304,"Denver-Aurora-Lakewood, CO",2018-02-01,,56.3,Denver CO
+305,"Detroit-Warren-Dearborn, MI",2018-02-01,103.772,56.3,Detroit MI
+306,"Houston-The Woodlands-Sugar Land, TX",2018-02-01,88.596,56.3,Houston TX
+307,"Los Angeles-Long Beach-Anaheim, CA",2018-02-01,92.7,56.3,Los Angeles CA
+308,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-02-01,118.391,56.3,Miami-Ft. Lauderdale FL
+309,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-02-01,,56.3,Minneapolis-St. Paul MN
+310,"New York-Newark-Jersey City, NY-NJ-PA",2018-02-01,92.153,56.3,New York NY
+311,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-02-01,94.777,56.3,Philadelphia PA
+312,"Phoenix-Mesa-Scottsdale, AZ",2018-02-01,98.53,56.3,Phoenix AZ
+313,"Riverside-San Bernardino-Ontario, CA",2018-02-01,,56.3,
+314,"San Diego-Carlsbad, CA",2018-02-01,,56.3,San Diego CA
+315,"San Francisco-Oakland-Hayward, CA",2018-02-01,96.158,56.3,San Francisco-Oakland-San Jose CA
+316,Seattle-Tacoma-Bellevue WA,2018-02-01,99.223,56.3,Seattle-Tacoma WA
+317,"St. Louis, MO-IL",2018-02-01,92.163,56.3,St. Louis MO
+318,"Tampa-St. Petersburg-Clearwater, FL",2018-02-01,,56.3,Tampa-St. Petersburg (Sarasota) FL
+319,Urban Alaska,2018-02-01,108.142,56.3,Anchorage AK
+320,Urban Hawaii,2018-02-01,,56.3,Honolulu HI
+321,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-02-01,,56.3,Washington DC (Hagerstown MD)
+322,"Atlanta-Sandy Springs-Roswell, GA",2018-03-01,,56.3,Atlanta GA
+323,"Baltimore-Columbia-Towson, MD",2018-03-01,,56.3,Baltimore MD
+324,"Boston-Cambridge-Newton, MA-NH",2018-03-01,104.95,56.3,Boston MA-Manchester NH
+325,"Chicago-Naperville-Elgin, IL-IN-WI",2018-03-01,95.457,56.3,Chicago IL
+326,"Dallas-Fort Worth-Arlington, TX",2018-03-01,106.975,56.3,Dallas-Ft. Worth TX
+327,"Denver-Aurora-Lakewood, CO",2018-03-01,107.701,56.3,Denver CO
+328,"Detroit-Warren-Dearborn, MI",2018-03-01,,56.3,Detroit MI
+329,"Houston-The Woodlands-Sugar Land, TX",2018-03-01,,56.3,Houston TX
+330,"Los Angeles-Long Beach-Anaheim, CA",2018-03-01,91.964,56.3,Los Angeles CA
+331,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-03-01,,56.3,Miami-Ft. Lauderdale FL
+332,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-03-01,89.256,56.3,Minneapolis-St. Paul MN
+333,"New York-Newark-Jersey City, NY-NJ-PA",2018-03-01,92.746,56.3,New York NY
+334,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-03-01,,56.3,Philadelphia PA
+335,"Phoenix-Mesa-Scottsdale, AZ",2018-03-01,,56.3,Phoenix AZ
+336,"Riverside-San Bernardino-Ontario, CA",2018-03-01,101.852,56.3,
+337,"San Diego-Carlsbad, CA",2018-03-01,105.413,56.3,San Diego CA
+338,"San Francisco-Oakland-Hayward, CA",2018-03-01,,56.3,San Francisco-Oakland-San Jose CA
+339,Seattle-Tacoma-Bellevue WA,2018-03-01,,56.3,Seattle-Tacoma WA
+340,"St. Louis, MO-IL",2018-03-01,,56.3,St. Louis MO
+341,"Tampa-St. Petersburg-Clearwater, FL",2018-03-01,107.638,56.3,Tampa-St. Petersburg (Sarasota) FL
+342,Urban Alaska,2018-03-01,,56.3,Anchorage AK
+343,Urban Hawaii,2018-03-01,110.924,56.3,Honolulu HI
+344,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-03-01,93.649,56.3,Washington DC (Hagerstown MD)
+345,"Atlanta-Sandy Springs-Roswell, GA",2018-04-01,101.823,56.4,Atlanta GA
+346,"Baltimore-Columbia-Towson, MD",2018-04-01,100.026,56.4,Baltimore MD
+347,"Boston-Cambridge-Newton, MA-NH",2018-04-01,,56.4,Boston MA-Manchester NH
+348,"Chicago-Naperville-Elgin, IL-IN-WI",2018-04-01,95.627,56.4,Chicago IL
+349,"Dallas-Fort Worth-Arlington, TX",2018-04-01,,56.4,Dallas-Ft. Worth TX
+350,"Denver-Aurora-Lakewood, CO",2018-04-01,,56.4,Denver CO
+351,"Detroit-Warren-Dearborn, MI",2018-04-01,103.741,56.4,Detroit MI
+352,"Houston-The Woodlands-Sugar Land, TX",2018-04-01,87.965,56.4,Houston TX
+353,"Los Angeles-Long Beach-Anaheim, CA",2018-04-01,92.077,56.4,Los Angeles CA
+354,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-04-01,116.207,56.4,Miami-Ft. Lauderdale FL
+355,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-04-01,,56.4,Minneapolis-St. Paul MN
+356,"New York-Newark-Jersey City, NY-NJ-PA",2018-04-01,91.936,56.4,New York NY
+357,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-04-01,95.99,56.4,Philadelphia PA
+358,"Phoenix-Mesa-Scottsdale, AZ",2018-04-01,94.055,56.4,Phoenix AZ
+359,"Riverside-San Bernardino-Ontario, CA",2018-04-01,,56.4,
+360,"San Diego-Carlsbad, CA",2018-04-01,,56.4,San Diego CA
+361,"San Francisco-Oakland-Hayward, CA",2018-04-01,96.712,56.4,San Francisco-Oakland-San Jose CA
+362,Seattle-Tacoma-Bellevue WA,2018-04-01,99.587,56.4,Seattle-Tacoma WA
+363,"St. Louis, MO-IL",2018-04-01,92.823,56.4,St. Louis MO
+364,"Tampa-St. Petersburg-Clearwater, FL",2018-04-01,,56.4,Tampa-St. Petersburg (Sarasota) FL
+365,Urban Alaska,2018-04-01,109.461,56.4,Anchorage AK
+366,Urban Hawaii,2018-04-01,,56.4,Honolulu HI
+367,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-04-01,,56.4,Washington DC (Hagerstown MD)
+368,"Atlanta-Sandy Springs-Roswell, GA",2018-05-01,,56.2,Atlanta GA
+369,"Baltimore-Columbia-Towson, MD",2018-05-01,,56.2,Baltimore MD
+370,"Boston-Cambridge-Newton, MA-NH",2018-05-01,102.925,56.2,Boston MA-Manchester NH
+371,"Chicago-Naperville-Elgin, IL-IN-WI",2018-05-01,95.496,56.2,Chicago IL
+372,"Dallas-Fort Worth-Arlington, TX",2018-05-01,108.185,56.2,Dallas-Ft. Worth TX
+373,"Denver-Aurora-Lakewood, CO",2018-05-01,106.699,56.2,Denver CO
+374,"Detroit-Warren-Dearborn, MI",2018-05-01,,56.2,Detroit MI
+375,"Houston-The Woodlands-Sugar Land, TX",2018-05-01,,56.2,Houston TX
+376,"Los Angeles-Long Beach-Anaheim, CA",2018-05-01,92.071,56.2,Los Angeles CA
+377,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-05-01,,56.2,Miami-Ft. Lauderdale FL
+378,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-05-01,91.166,56.2,Minneapolis-St. Paul MN
+379,"New York-Newark-Jersey City, NY-NJ-PA",2018-05-01,91.553,56.2,New York NY
+380,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-05-01,,56.2,Philadelphia PA
+381,"Phoenix-Mesa-Scottsdale, AZ",2018-05-01,,56.2,Phoenix AZ
+382,"Riverside-San Bernardino-Ontario, CA",2018-05-01,101.467,56.2,
+383,"San Diego-Carlsbad, CA",2018-05-01,105.022,56.2,San Diego CA
+384,"San Francisco-Oakland-Hayward, CA",2018-05-01,,56.2,San Francisco-Oakland-San Jose CA
+385,Seattle-Tacoma-Bellevue WA,2018-05-01,,56.2,Seattle-Tacoma WA
+386,"St. Louis, MO-IL",2018-05-01,,56.2,St. Louis MO
+387,"Tampa-St. Petersburg-Clearwater, FL",2018-05-01,109.46,56.2,Tampa-St. Petersburg (Sarasota) FL
+388,Urban Alaska,2018-05-01,,56.2,Anchorage AK
+389,Urban Hawaii,2018-05-01,109.336,56.2,Honolulu HI
+390,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-05-01,93.354,56.2,Washington DC (Hagerstown MD)
+391,"Atlanta-Sandy Springs-Roswell, GA",2018-06-01,102.034,56.2,Atlanta GA
+392,"Baltimore-Columbia-Towson, MD",2018-06-01,97.643,56.2,Baltimore MD
+393,"Boston-Cambridge-Newton, MA-NH",2018-06-01,,56.2,Boston MA-Manchester NH
+394,"Chicago-Naperville-Elgin, IL-IN-WI",2018-06-01,94.864,56.2,Chicago IL
+395,"Dallas-Fort Worth-Arlington, TX",2018-06-01,,56.2,Dallas-Ft. Worth TX
+396,"Denver-Aurora-Lakewood, CO",2018-06-01,,56.2,Denver CO
+397,"Detroit-Warren-Dearborn, MI",2018-06-01,108.481,56.2,Detroit MI
+398,"Houston-The Woodlands-Sugar Land, TX",2018-06-01,88.531,56.2,Houston TX
+399,"Los Angeles-Long Beach-Anaheim, CA",2018-06-01,92.013,56.2,Los Angeles CA
+400,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-06-01,117.376,56.2,Miami-Ft. Lauderdale FL
+401,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-06-01,,56.2,Minneapolis-St. Paul MN
+402,"New York-Newark-Jersey City, NY-NJ-PA",2018-06-01,91.597,56.2,New York NY
+403,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-06-01,98.127,56.2,Philadelphia PA
+404,"Phoenix-Mesa-Scottsdale, AZ",2018-06-01,93.573,56.2,Phoenix AZ
+405,"Riverside-San Bernardino-Ontario, CA",2018-06-01,,56.2,
+406,"San Diego-Carlsbad, CA",2018-06-01,,56.2,San Diego CA
+407,"San Francisco-Oakland-Hayward, CA",2018-06-01,97.703,56.2,San Francisco-Oakland-San Jose CA
+408,Seattle-Tacoma-Bellevue WA,2018-06-01,103.863,56.2,Seattle-Tacoma WA
+409,"St. Louis, MO-IL",2018-06-01,94.309,56.2,St. Louis MO
+410,"Tampa-St. Petersburg-Clearwater, FL",2018-06-01,,56.2,Tampa-St. Petersburg (Sarasota) FL
+411,Urban Alaska,2018-06-01,110.457,56.2,Anchorage AK
+412,Urban Hawaii,2018-06-01,,56.2,Honolulu HI
+413,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-06-01,,56.2,Washington DC (Hagerstown MD)
+414,"Atlanta-Sandy Springs-Roswell, GA",2018-07-01,,55.9,Atlanta GA
+415,"Baltimore-Columbia-Towson, MD",2018-07-01,,55.9,Baltimore MD
+416,"Boston-Cambridge-Newton, MA-NH",2018-07-01,106.101,55.9,Boston MA-Manchester NH
+417,"Chicago-Naperville-Elgin, IL-IN-WI",2018-07-01,95.718,55.9,Chicago IL
+418,"Dallas-Fort Worth-Arlington, TX",2018-07-01,108.973,55.9,Dallas-Ft. Worth TX
+419,"Denver-Aurora-Lakewood, CO",2018-07-01,107.161,55.9,Denver CO
+420,"Detroit-Warren-Dearborn, MI",2018-07-01,,55.9,Detroit MI
+421,"Houston-The Woodlands-Sugar Land, TX",2018-07-01,,55.9,Houston TX
+422,"Los Angeles-Long Beach-Anaheim, CA",2018-07-01,92.28,55.9,Los Angeles CA
+423,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-07-01,,55.9,Miami-Ft. Lauderdale FL
+424,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-07-01,92.367,55.9,Minneapolis-St. Paul MN
+425,"New York-Newark-Jersey City, NY-NJ-PA",2018-07-01,92.324,55.9,New York NY
+426,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-07-01,,55.9,Philadelphia PA
+427,"Phoenix-Mesa-Scottsdale, AZ",2018-07-01,,55.9,Phoenix AZ
+428,"Riverside-San Bernardino-Ontario, CA",2018-07-01,103.256,55.9,
+429,"San Diego-Carlsbad, CA",2018-07-01,106.119,55.9,San Diego CA
+430,"San Francisco-Oakland-Hayward, CA",2018-07-01,,55.9,San Francisco-Oakland-San Jose CA
+431,Seattle-Tacoma-Bellevue WA,2018-07-01,,55.9,Seattle-Tacoma WA
+432,"St. Louis, MO-IL",2018-07-01,,55.9,St. Louis MO
+433,"Tampa-St. Petersburg-Clearwater, FL",2018-07-01,109.11,55.9,Tampa-St. Petersburg (Sarasota) FL
+434,Urban Alaska,2018-07-01,,55.9,Anchorage AK
+435,Urban Hawaii,2018-07-01,105.858,55.9,Honolulu HI
+436,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-07-01,95.113,55.9,Washington DC (Hagerstown MD)
+437,"Atlanta-Sandy Springs-Roswell, GA",2018-08-01,106.137,55.5,Atlanta GA
+438,"Baltimore-Columbia-Towson, MD",2018-08-01,96.813,55.5,Baltimore MD
+439,"Boston-Cambridge-Newton, MA-NH",2018-08-01,,55.5,Boston MA-Manchester NH
+440,"Chicago-Naperville-Elgin, IL-IN-WI",2018-08-01,95.663,55.5,Chicago IL
+441,"Dallas-Fort Worth-Arlington, TX",2018-08-01,,55.5,Dallas-Ft. Worth TX
+442,"Denver-Aurora-Lakewood, CO",2018-08-01,,55.5,Denver CO
+443,"Detroit-Warren-Dearborn, MI",2018-08-01,109.978,55.5,Detroit MI
+444,"Houston-The Woodlands-Sugar Land, TX",2018-08-01,88.503,55.5,Houston TX
+445,"Los Angeles-Long Beach-Anaheim, CA",2018-08-01,92.075,55.5,Los Angeles CA
+446,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-08-01,115.716,55.5,Miami-Ft. Lauderdale FL
+447,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-08-01,,55.5,Minneapolis-St. Paul MN
+448,"New York-Newark-Jersey City, NY-NJ-PA",2018-08-01,91.934,55.5,New York NY
+449,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-08-01,98.213,55.5,Philadelphia PA
+450,"Phoenix-Mesa-Scottsdale, AZ",2018-08-01,92.206,55.5,Phoenix AZ
+451,"Riverside-San Bernardino-Ontario, CA",2018-08-01,,55.5,
+452,"San Diego-Carlsbad, CA",2018-08-01,,55.5,San Diego CA
+453,"San Francisco-Oakland-Hayward, CA",2018-08-01,96.122,55.5,San Francisco-Oakland-San Jose CA
+454,Seattle-Tacoma-Bellevue WA,2018-08-01,99.707,55.5,Seattle-Tacoma WA
+455,"St. Louis, MO-IL",2018-08-01,93.114,55.5,St. Louis MO
+456,"Tampa-St. Petersburg-Clearwater, FL",2018-08-01,,55.5,Tampa-St. Petersburg (Sarasota) FL
+457,Urban Alaska,2018-08-01,,55.5,Anchorage AK
+458,Urban Hawaii,2018-08-01,,55.5,Honolulu HI
+459,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-08-01,,55.5,Washington DC (Hagerstown MD)
+460,"Atlanta-Sandy Springs-Roswell, GA",2018-09-01,,55.9,Atlanta GA
+461,"Baltimore-Columbia-Towson, MD",2018-09-01,,55.9,Baltimore MD
+462,"Boston-Cambridge-Newton, MA-NH",2018-09-01,103.074,55.9,Boston MA-Manchester NH
+463,"Chicago-Naperville-Elgin, IL-IN-WI",2018-09-01,94.953,55.9,Chicago IL
+464,"Dallas-Fort Worth-Arlington, TX",2018-09-01,107.283,55.9,Dallas-Ft. Worth TX
+465,"Denver-Aurora-Lakewood, CO",2018-09-01,106.613,55.9,Denver CO
+466,"Detroit-Warren-Dearborn, MI",2018-09-01,,55.9,Detroit MI
+467,"Houston-The Woodlands-Sugar Land, TX",2018-09-01,,55.9,Houston TX
+468,"Los Angeles-Long Beach-Anaheim, CA",2018-09-01,90.508,55.9,Los Angeles CA
+469,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-09-01,,55.9,Miami-Ft. Lauderdale FL
+470,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-09-01,89.719,55.9,Minneapolis-St. Paul MN
+471,"New York-Newark-Jersey City, NY-NJ-PA",2018-09-01,89.504,55.9,New York NY
+472,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-09-01,,55.9,Philadelphia PA
+473,"Phoenix-Mesa-Scottsdale, AZ",2018-09-01,,55.9,Phoenix AZ
+474,"Riverside-San Bernardino-Ontario, CA",2018-09-01,101.525,55.9,
+475,"San Diego-Carlsbad, CA",2018-09-01,105.28,55.9,San Diego CA
+476,"San Francisco-Oakland-Hayward, CA",2018-09-01,,55.9,San Francisco-Oakland-San Jose CA
+477,Seattle-Tacoma-Bellevue WA,2018-09-01,,55.9,Seattle-Tacoma WA
+478,"St. Louis, MO-IL",2018-09-01,,55.9,St. Louis MO
+479,"Tampa-St. Petersburg-Clearwater, FL",2018-09-01,106.163,55.9,Tampa-St. Petersburg (Sarasota) FL
+480,Urban Alaska,2018-09-01,,55.9,Anchorage AK
+481,Urban Hawaii,2018-09-01,104.869,55.9,Honolulu HI
+482,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-09-01,92.749,55.9,Washington DC (Hagerstown MD)
+483,"Atlanta-Sandy Springs-Roswell, GA",2018-10-01,101.623,55.6,Atlanta GA
+484,"Baltimore-Columbia-Towson, MD",2018-10-01,97.289,55.6,Baltimore MD
+485,"Boston-Cambridge-Newton, MA-NH",2018-10-01,,55.6,Boston MA-Manchester NH
+486,"Chicago-Naperville-Elgin, IL-IN-WI",2018-10-01,95.152,55.6,Chicago IL
+487,"Dallas-Fort Worth-Arlington, TX",2018-10-01,,55.6,Dallas-Ft. Worth TX
+488,"Denver-Aurora-Lakewood, CO",2018-10-01,,55.6,Denver CO
+489,"Detroit-Warren-Dearborn, MI",2018-10-01,106.065,55.6,Detroit MI
+490,"Houston-The Woodlands-Sugar Land, TX",2018-10-01,87.378,55.6,Houston TX
+491,"Los Angeles-Long Beach-Anaheim, CA",2018-10-01,90.874,55.6,Los Angeles CA
+492,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-10-01,116.154,55.6,Miami-Ft. Lauderdale FL
+493,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-10-01,,55.6,Minneapolis-St. Paul MN
+494,"New York-Newark-Jersey City, NY-NJ-PA",2018-10-01,89.117,55.6,New York NY
+495,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-10-01,97.405,55.6,Philadelphia PA
+496,"Phoenix-Mesa-Scottsdale, AZ",2018-10-01,94.101,55.6,Phoenix AZ
+497,"Riverside-San Bernardino-Ontario, CA",2018-10-01,,55.6,
+498,"San Diego-Carlsbad, CA",2018-10-01,,55.6,San Diego CA
+499,"San Francisco-Oakland-Hayward, CA",2018-10-01,94.826,55.6,San Francisco-Oakland-San Jose CA
+500,Seattle-Tacoma-Bellevue WA,2018-10-01,100.097,55.6,Seattle-Tacoma WA
+501,"St. Louis, MO-IL",2018-10-01,91.74,55.6,St. Louis MO
+502,"Tampa-St. Petersburg-Clearwater, FL",2018-10-01,,55.6,Tampa-St. Petersburg (Sarasota) FL
+503,Urban Alaska,2018-10-01,109.524,55.6,Anchorage AK
+504,Urban Hawaii,2018-10-01,,55.6,Honolulu HI
+505,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-10-01,,55.6,Washington DC (Hagerstown MD)
+506,"Atlanta-Sandy Springs-Roswell, GA",2018-11-01,,55.6,Atlanta GA
+507,"Baltimore-Columbia-Towson, MD",2018-11-01,,55.6,Baltimore MD
+508,"Boston-Cambridge-Newton, MA-NH",2018-11-01,104.487,55.6,Boston MA-Manchester NH
+509,"Chicago-Naperville-Elgin, IL-IN-WI",2018-11-01,96.218,55.6,Chicago IL
+510,"Dallas-Fort Worth-Arlington, TX",2018-11-01,107.477,55.6,Dallas-Ft. Worth TX
+511,"Denver-Aurora-Lakewood, CO",2018-11-01,107.204,55.6,Denver CO
+512,"Detroit-Warren-Dearborn, MI",2018-11-01,,55.6,Detroit MI
+513,"Houston-The Woodlands-Sugar Land, TX",2018-11-01,,55.6,Houston TX
+514,"Los Angeles-Long Beach-Anaheim, CA",2018-11-01,91.525,55.6,Los Angeles CA
+515,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-11-01,,55.6,Miami-Ft. Lauderdale FL
+516,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-11-01,91.207,55.6,Minneapolis-St. Paul MN
+517,"New York-Newark-Jersey City, NY-NJ-PA",2018-11-01,89.145,55.6,New York NY
+518,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-11-01,,55.6,Philadelphia PA
+519,"Phoenix-Mesa-Scottsdale, AZ",2018-11-01,,55.6,Phoenix AZ
+520,"Riverside-San Bernardino-Ontario, CA",2018-11-01,102.889,55.6,
+521,"San Diego-Carlsbad, CA",2018-11-01,105.703,55.6,San Diego CA
+522,"San Francisco-Oakland-Hayward, CA",2018-11-01,,55.6,San Francisco-Oakland-San Jose CA
+523,Seattle-Tacoma-Bellevue WA,2018-11-01,,55.6,Seattle-Tacoma WA
+524,"St. Louis, MO-IL",2018-11-01,,55.6,St. Louis MO
+525,"Tampa-St. Petersburg-Clearwater, FL",2018-11-01,106.764,55.6,Tampa-St. Petersburg (Sarasota) FL
+526,Urban Alaska,2018-11-01,,55.6,Anchorage AK
+527,Urban Hawaii,2018-11-01,104.772,55.6,Honolulu HI
+528,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-11-01,93.968,55.6,Washington DC (Hagerstown MD)
+529,"Atlanta-Sandy Springs-Roswell, GA",2018-12-01,105.042,55.6,Atlanta GA
+530,"Baltimore-Columbia-Towson, MD",2018-12-01,96.643,55.6,Baltimore MD
+531,"Boston-Cambridge-Newton, MA-NH",2018-12-01,,55.6,Boston MA-Manchester NH
+532,"Chicago-Naperville-Elgin, IL-IN-WI",2018-12-01,95.459,55.6,Chicago IL
+533,"Dallas-Fort Worth-Arlington, TX",2018-12-01,,55.6,Dallas-Ft. Worth TX
+534,"Denver-Aurora-Lakewood, CO",2018-12-01,,55.6,Denver CO
+535,"Detroit-Warren-Dearborn, MI",2018-12-01,112.632,55.6,Detroit MI
+536,"Houston-The Woodlands-Sugar Land, TX",2018-12-01,88.07,55.6,Houston TX
+537,"Los Angeles-Long Beach-Anaheim, CA",2018-12-01,91.518,55.6,Los Angeles CA
+538,"Miami-Fort Lauderdale-West Palm Beach, FL",2018-12-01,119.037,55.6,Miami-Ft. Lauderdale FL
+539,"Minneapolis-St.Paul-Bloomington, MN-WI",2018-12-01,,55.6,Minneapolis-St. Paul MN
+540,"New York-Newark-Jersey City, NY-NJ-PA",2018-12-01,89.426,55.6,New York NY
+541,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018-12-01,98.082,55.6,Philadelphia PA
+542,"Phoenix-Mesa-Scottsdale, AZ",2018-12-01,93.218,55.6,Phoenix AZ
+543,"Riverside-San Bernardino-Ontario, CA",2018-12-01,,55.6,
+544,"San Diego-Carlsbad, CA",2018-12-01,,55.6,San Diego CA
+545,"San Francisco-Oakland-Hayward, CA",2018-12-01,95.3,55.6,San Francisco-Oakland-San Jose CA
+546,Seattle-Tacoma-Bellevue WA,2018-12-01,100.934,55.6,Seattle-Tacoma WA
+547,"St. Louis, MO-IL",2018-12-01,91.726,55.6,St. Louis MO
+548,"Tampa-St. Petersburg-Clearwater, FL",2018-12-01,,55.6,Tampa-St. Petersburg (Sarasota) FL
+549,Urban Alaska,2018-12-01,,55.6,Anchorage AK
+550,Urban Hawaii,2018-12-01,,55.6,Honolulu HI
+551,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018-12-01,,55.6,Washington DC (Hagerstown MD)
+552,"Atlanta-Sandy Springs-Roswell, GA",2019-01-01,,55.1,Atlanta GA
+553,"Baltimore-Columbia-Towson, MD",2019-01-01,,55.1,Baltimore MD
+554,"Boston-Cambridge-Newton, MA-NH",2019-01-01,106.942,55.1,Boston MA-Manchester NH
+555,"Chicago-Naperville-Elgin, IL-IN-WI",2019-01-01,96.742,55.1,Chicago IL
+556,"Dallas-Fort Worth-Arlington, TX",2019-01-01,107.152,55.1,Dallas-Ft. Worth TX
+557,"Denver-Aurora-Lakewood, CO",2019-01-01,107.858,55.1,Denver CO
+558,"Detroit-Warren-Dearborn, MI",2019-01-01,,55.1,Detroit MI
+559,"Houston-The Woodlands-Sugar Land, TX",2019-01-01,,55.1,Houston TX
+560,"Los Angeles-Long Beach-Anaheim, CA",2019-01-01,92.091,55.1,Los Angeles CA
+561,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-01-01,,55.1,Miami-Ft. Lauderdale FL
+562,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-01-01,88.935,55.1,Minneapolis-St. Paul MN
+563,"New York-Newark-Jersey City, NY-NJ-PA",2019-01-01,90.02,55.1,New York NY
+564,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-01-01,,55.1,Philadelphia PA
+565,"Phoenix-Mesa-Scottsdale, AZ",2019-01-01,,55.1,Phoenix AZ
+566,"Riverside-San Bernardino-Ontario, CA",2019-01-01,102.389,55.1,
+567,"San Diego-Carlsbad, CA",2019-01-01,108.316,55.1,San Diego CA
+568,"San Francisco-Oakland-Hayward, CA",2019-01-01,,55.1,San Francisco-Oakland-San Jose CA
+569,Seattle-Tacoma-Bellevue WA,2019-01-01,,55.1,Seattle-Tacoma WA
+570,"St. Louis, MO-IL",2019-01-01,,55.1,St. Louis MO
+571,"Tampa-St. Petersburg-Clearwater, FL",2019-01-01,101.072,55.1,Tampa-St. Petersburg (Sarasota) FL
+572,Urban Alaska,2019-01-01,,55.1,Anchorage AK
+573,Urban Hawaii,2019-01-01,104.092,55.1,Honolulu HI
+574,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-01-01,94.272,55.1,Washington DC (Hagerstown MD)
+575,"Atlanta-Sandy Springs-Roswell, GA",2019-02-01,102.452,55.1,Atlanta GA
+576,"Baltimore-Columbia-Towson, MD",2019-02-01,98.412,55.1,Baltimore MD
+577,"Boston-Cambridge-Newton, MA-NH",2019-02-01,,55.1,Boston MA-Manchester NH
+578,"Chicago-Naperville-Elgin, IL-IN-WI",2019-02-01,97.292,55.1,Chicago IL
+579,"Dallas-Fort Worth-Arlington, TX",2019-02-01,,55.1,Dallas-Ft. Worth TX
+580,"Denver-Aurora-Lakewood, CO",2019-02-01,,55.1,Denver CO
+581,"Detroit-Warren-Dearborn, MI",2019-02-01,112.154,55.1,Detroit MI
+582,"Houston-The Woodlands-Sugar Land, TX",2019-02-01,88.523,55.1,Houston TX
+583,"Los Angeles-Long Beach-Anaheim, CA",2019-02-01,91.772,55.1,Los Angeles CA
+584,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-02-01,118.224,55.1,Miami-Ft. Lauderdale FL
+585,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-02-01,,55.1,Minneapolis-St. Paul MN
+586,"New York-Newark-Jersey City, NY-NJ-PA",2019-02-01,91.099,55.1,New York NY
+587,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-02-01,98.734,55.1,Philadelphia PA
+588,"Phoenix-Mesa-Scottsdale, AZ",2019-02-01,92.2,55.1,Phoenix AZ
+589,"Riverside-San Bernardino-Ontario, CA",2019-02-01,,55.1,
+590,"San Diego-Carlsbad, CA",2019-02-01,,55.1,San Diego CA
+591,"San Francisco-Oakland-Hayward, CA",2019-02-01,95.322,55.1,San Francisco-Oakland-San Jose CA
+592,Seattle-Tacoma-Bellevue WA,2019-02-01,100.148,55.1,Seattle-Tacoma WA
+593,"St. Louis, MO-IL",2019-02-01,92.036,55.1,St. Louis MO
+594,"Tampa-St. Petersburg-Clearwater, FL",2019-02-01,,55.1,Tampa-St. Petersburg (Sarasota) FL
+595,Urban Alaska,2019-02-01,112.712,55.1,Anchorage AK
+596,Urban Hawaii,2019-02-01,,55.1,Honolulu HI
+597,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-02-01,,55.1,Washington DC (Hagerstown MD)
+598,"Atlanta-Sandy Springs-Roswell, GA",2019-03-01,,55.1,Atlanta GA
+599,"Baltimore-Columbia-Towson, MD",2019-03-01,,55.1,Baltimore MD
+600,"Boston-Cambridge-Newton, MA-NH",2019-03-01,106.782,55.1,Boston MA-Manchester NH
+601,"Chicago-Naperville-Elgin, IL-IN-WI",2019-03-01,95.755,55.1,Chicago IL
+602,"Dallas-Fort Worth-Arlington, TX",2019-03-01,110.167,55.1,Dallas-Ft. Worth TX
+603,"Denver-Aurora-Lakewood, CO",2019-03-01,109.164,55.1,Denver CO
+604,"Detroit-Warren-Dearborn, MI",2019-03-01,,55.1,Detroit MI
+605,"Houston-The Woodlands-Sugar Land, TX",2019-03-01,,55.1,Houston TX
+606,"Los Angeles-Long Beach-Anaheim, CA",2019-03-01,91.803,55.1,Los Angeles CA
+607,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-03-01,,55.1,Miami-Ft. Lauderdale FL
+608,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-03-01,92.889,55.1,Minneapolis-St. Paul MN
+609,"New York-Newark-Jersey City, NY-NJ-PA",2019-03-01,91.127,55.1,New York NY
+610,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-03-01,,55.1,Philadelphia PA
+611,"Phoenix-Mesa-Scottsdale, AZ",2019-03-01,,55.1,Phoenix AZ
+612,"Riverside-San Bernardino-Ontario, CA",2019-03-01,102.721,55.1,
+613,"San Diego-Carlsbad, CA",2019-03-01,108.506,55.1,San Diego CA
+614,"San Francisco-Oakland-Hayward, CA",2019-03-01,,55.1,San Francisco-Oakland-San Jose CA
+615,Seattle-Tacoma-Bellevue WA,2019-03-01,,55.1,Seattle-Tacoma WA
+616,"St. Louis, MO-IL",2019-03-01,,55.1,St. Louis MO
+617,"Tampa-St. Petersburg-Clearwater, FL",2019-03-01,111.339,55.1,Tampa-St. Petersburg (Sarasota) FL
+618,Urban Alaska,2019-03-01,,55.1,Anchorage AK
+619,Urban Hawaii,2019-03-01,104.748,55.1,Honolulu HI
+620,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-03-01,94.892,55.1,Washington DC (Hagerstown MD)
+621,"Atlanta-Sandy Springs-Roswell, GA",2019-04-01,102.954,55.2,Atlanta GA
+622,"Baltimore-Columbia-Towson, MD",2019-04-01,98.698,55.2,Baltimore MD
+623,"Boston-Cambridge-Newton, MA-NH",2019-04-01,,55.2,Boston MA-Manchester NH
+624,"Chicago-Naperville-Elgin, IL-IN-WI",2019-04-01,96.359,55.2,Chicago IL
+625,"Dallas-Fort Worth-Arlington, TX",2019-04-01,,55.2,Dallas-Ft. Worth TX
+626,"Denver-Aurora-Lakewood, CO",2019-04-01,,55.2,Denver CO
+627,"Detroit-Warren-Dearborn, MI",2019-04-01,109.759,55.2,Detroit MI
+628,"Houston-The Woodlands-Sugar Land, TX",2019-04-01,88.46,55.2,Houston TX
+629,"Los Angeles-Long Beach-Anaheim, CA",2019-04-01,91.923,55.2,Los Angeles CA
+630,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-04-01,117.997,55.2,Miami-Ft. Lauderdale FL
+631,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-04-01,,55.2,Minneapolis-St. Paul MN
+632,"New York-Newark-Jersey City, NY-NJ-PA",2019-04-01,91.015,55.2,New York NY
+633,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-04-01,98.846,55.2,Philadelphia PA
+634,"Phoenix-Mesa-Scottsdale, AZ",2019-04-01,91.769,55.2,Phoenix AZ
+635,"Riverside-San Bernardino-Ontario, CA",2019-04-01,,55.2,
+636,"San Diego-Carlsbad, CA",2019-04-01,,55.2,San Diego CA
+637,"San Francisco-Oakland-Hayward, CA",2019-04-01,93.188,55.2,San Francisco-Oakland-San Jose CA
+638,Seattle-Tacoma-Bellevue WA,2019-04-01,98.488,55.2,Seattle-Tacoma WA
+639,"St. Louis, MO-IL",2019-04-01,93.087,55.2,St. Louis MO
+640,"Tampa-St. Petersburg-Clearwater, FL",2019-04-01,,55.2,Tampa-St. Petersburg (Sarasota) FL
+641,Urban Alaska,2019-04-01,110.425,55.2,Anchorage AK
+642,Urban Hawaii,2019-04-01,,55.2,Honolulu HI
+643,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-04-01,,55.2,Washington DC (Hagerstown MD)
+644,"Atlanta-Sandy Springs-Roswell, GA",2019-05-01,,55.1,Atlanta GA
+645,"Baltimore-Columbia-Towson, MD",2019-05-01,,55.1,Baltimore MD
+646,"Boston-Cambridge-Newton, MA-NH",2019-05-01,104.01,55.1,Boston MA-Manchester NH
+647,"Chicago-Naperville-Elgin, IL-IN-WI",2019-05-01,95.831,55.1,Chicago IL
+648,"Dallas-Fort Worth-Arlington, TX",2019-05-01,108.645,55.1,Dallas-Ft. Worth TX
+649,"Denver-Aurora-Lakewood, CO",2019-05-01,110.024,55.1,Denver CO
+650,"Detroit-Warren-Dearborn, MI",2019-05-01,,55.1,Detroit MI
+651,"Houston-The Woodlands-Sugar Land, TX",2019-05-01,,55.1,Houston TX
+652,"Los Angeles-Long Beach-Anaheim, CA",2019-05-01,91.852,55.1,Los Angeles CA
+653,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-05-01,,55.1,Miami-Ft. Lauderdale FL
+654,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-05-01,90.877,55.1,Minneapolis-St. Paul MN
+655,"New York-Newark-Jersey City, NY-NJ-PA",2019-05-01,90.026,55.1,New York NY
+656,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-05-01,,55.1,Philadelphia PA
+657,"Phoenix-Mesa-Scottsdale, AZ",2019-05-01,,55.1,Phoenix AZ
+658,"Riverside-San Bernardino-Ontario, CA",2019-05-01,100.163,55.1,
+659,"San Diego-Carlsbad, CA",2019-05-01,107.534,55.1,San Diego CA
+660,"San Francisco-Oakland-Hayward, CA",2019-05-01,,55.1,San Francisco-Oakland-San Jose CA
+661,Seattle-Tacoma-Bellevue WA,2019-05-01,,55.1,Seattle-Tacoma WA
+662,"St. Louis, MO-IL",2019-05-01,,55.1,St. Louis MO
+663,"Tampa-St. Petersburg-Clearwater, FL",2019-05-01,108.612,55.1,Tampa-St. Petersburg (Sarasota) FL
+664,Urban Alaska,2019-05-01,,55.1,Anchorage AK
+665,Urban Hawaii,2019-05-01,104.549,55.1,Honolulu HI
+666,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-05-01,94.838,55.1,Washington DC (Hagerstown MD)
+667,"Atlanta-Sandy Springs-Roswell, GA",2019-06-01,101.086,55.3,Atlanta GA
+668,"Baltimore-Columbia-Towson, MD",2019-06-01,95.766,55.3,Baltimore MD
+669,"Boston-Cambridge-Newton, MA-NH",2019-06-01,,55.3,Boston MA-Manchester NH
+670,"Chicago-Naperville-Elgin, IL-IN-WI",2019-06-01,96.132,55.3,Chicago IL
+671,"Dallas-Fort Worth-Arlington, TX",2019-06-01,,55.3,Dallas-Ft. Worth TX
+672,"Denver-Aurora-Lakewood, CO",2019-06-01,,55.3,Denver CO
+673,"Detroit-Warren-Dearborn, MI",2019-06-01,111.278,55.3,Detroit MI
+674,"Houston-The Woodlands-Sugar Land, TX",2019-06-01,88.427,55.3,Houston TX
+675,"Los Angeles-Long Beach-Anaheim, CA",2019-06-01,91.783,55.3,Los Angeles CA
+676,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-06-01,114.134,55.3,Miami-Ft. Lauderdale FL
+677,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-06-01,,55.3,Minneapolis-St. Paul MN
+678,"New York-Newark-Jersey City, NY-NJ-PA",2019-06-01,89.297,55.3,New York NY
+679,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-06-01,99.597,55.3,Philadelphia PA
+680,"Phoenix-Mesa-Scottsdale, AZ",2019-06-01,93.189,55.3,Phoenix AZ
+681,"Riverside-San Bernardino-Ontario, CA",2019-06-01,,55.3,
+682,"San Diego-Carlsbad, CA",2019-06-01,,55.3,San Diego CA
+683,"San Francisco-Oakland-Hayward, CA",2019-06-01,95.053,55.3,San Francisco-Oakland-San Jose CA
+684,Seattle-Tacoma-Bellevue WA,2019-06-01,98.852,55.3,Seattle-Tacoma WA
+685,"St. Louis, MO-IL",2019-06-01,93.604,55.3,St. Louis MO
+686,"Tampa-St. Petersburg-Clearwater, FL",2019-06-01,,55.3,Tampa-St. Petersburg (Sarasota) FL
+687,Urban Alaska,2019-06-01,112.246,55.3,Anchorage AK
+688,Urban Hawaii,2019-06-01,,55.3,Honolulu HI
+689,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-06-01,,55.3,Washington DC (Hagerstown MD)
+690,"Atlanta-Sandy Springs-Roswell, GA",2019-07-01,,55.4,Atlanta GA
+691,"Baltimore-Columbia-Towson, MD",2019-07-01,,55.4,Baltimore MD
+692,"Boston-Cambridge-Newton, MA-NH",2019-07-01,103.497,55.4,Boston MA-Manchester NH
+693,"Chicago-Naperville-Elgin, IL-IN-WI",2019-07-01,96.36,55.4,Chicago IL
+694,"Dallas-Fort Worth-Arlington, TX",2019-07-01,109.512,55.4,Dallas-Ft. Worth TX
+695,"Denver-Aurora-Lakewood, CO",2019-07-01,110.58,55.4,Denver CO
+696,"Detroit-Warren-Dearborn, MI",2019-07-01,,55.4,Detroit MI
+697,"Houston-The Woodlands-Sugar Land, TX",2019-07-01,,55.4,Houston TX
+698,"Los Angeles-Long Beach-Anaheim, CA",2019-07-01,92.094,55.4,Los Angeles CA
+699,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-07-01,,55.4,Miami-Ft. Lauderdale FL
+700,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-07-01,92.374,55.4,Minneapolis-St. Paul MN
+701,"New York-Newark-Jersey City, NY-NJ-PA",2019-07-01,90.246,55.4,New York NY
+702,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-07-01,,55.4,Philadelphia PA
+703,"Phoenix-Mesa-Scottsdale, AZ",2019-07-01,,55.4,Phoenix AZ
+704,"Riverside-San Bernardino-Ontario, CA",2019-07-01,100.963,55.4,
+705,"San Diego-Carlsbad, CA",2019-07-01,109.23,55.4,San Diego CA
+706,"San Francisco-Oakland-Hayward, CA",2019-07-01,,55.4,San Francisco-Oakland-San Jose CA
+707,Seattle-Tacoma-Bellevue WA,2019-07-01,,55.4,Seattle-Tacoma WA
+708,"St. Louis, MO-IL",2019-07-01,,55.4,St. Louis MO
+709,"Tampa-St. Petersburg-Clearwater, FL",2019-07-01,108.724,55.4,Tampa-St. Petersburg (Sarasota) FL
+710,Urban Alaska,2019-07-01,,55.4,Anchorage AK
+711,Urban Hawaii,2019-07-01,,55.4,Honolulu HI
+712,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-07-01,95.288,55.4,Washington DC (Hagerstown MD)
+713,"Atlanta-Sandy Springs-Roswell, GA",2019-08-01,101.84,55.5,Atlanta GA
+714,"Baltimore-Columbia-Towson, MD",2019-08-01,96.3,55.5,Baltimore MD
+715,"Boston-Cambridge-Newton, MA-NH",2019-08-01,,55.5,Boston MA-Manchester NH
+716,"Chicago-Naperville-Elgin, IL-IN-WI",2019-08-01,95.717,55.5,Chicago IL
+717,"Dallas-Fort Worth-Arlington, TX",2019-08-01,,55.5,Dallas-Ft. Worth TX
+718,"Denver-Aurora-Lakewood, CO",2019-08-01,,55.5,Denver CO
+719,"Detroit-Warren-Dearborn, MI",2019-08-01,113.657,55.5,Detroit MI
+720,"Houston-The Woodlands-Sugar Land, TX",2019-08-01,88.728,55.5,Houston TX
+721,"Los Angeles-Long Beach-Anaheim, CA",2019-08-01,91.674,55.5,Los Angeles CA
+722,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-08-01,115.458,55.5,Miami-Ft. Lauderdale FL
+723,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-08-01,,55.5,Minneapolis-St. Paul MN
+724,"New York-Newark-Jersey City, NY-NJ-PA",2019-08-01,90.513,55.5,New York NY
+725,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-08-01,101.459,55.5,Philadelphia PA
+726,"Phoenix-Mesa-Scottsdale, AZ",2019-08-01,92.755,55.5,Phoenix AZ
+727,"Riverside-San Bernardino-Ontario, CA",2019-08-01,,55.5,
+728,"San Diego-Carlsbad, CA",2019-08-01,,55.5,San Diego CA
+729,"San Francisco-Oakland-Hayward, CA",2019-08-01,96.228,55.5,San Francisco-Oakland-San Jose CA
+730,Seattle-Tacoma-Bellevue WA,2019-08-01,98.792,55.5,Seattle-Tacoma WA
+731,"St. Louis, MO-IL",2019-08-01,93.513,55.5,St. Louis MO
+732,"Tampa-St. Petersburg-Clearwater, FL",2019-08-01,,55.5,Tampa-St. Petersburg (Sarasota) FL
+733,Urban Alaska,2019-08-01,,55.5,Anchorage AK
+734,Urban Hawaii,2019-08-01,,55.5,Honolulu HI
+735,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-08-01,,55.5,Washington DC (Hagerstown MD)
+736,"Atlanta-Sandy Springs-Roswell, GA",2019-09-01,,55.6,Atlanta GA
+737,"Baltimore-Columbia-Towson, MD",2019-09-01,,55.6,Baltimore MD
+738,"Boston-Cambridge-Newton, MA-NH",2019-09-01,101.698,55.6,Boston MA-Manchester NH
+739,"Chicago-Naperville-Elgin, IL-IN-WI",2019-09-01,95.349,55.6,Chicago IL
+740,"Dallas-Fort Worth-Arlington, TX",2019-09-01,107.579,55.6,Dallas-Ft. Worth TX
+741,"Denver-Aurora-Lakewood, CO",2019-09-01,108.738,55.6,Denver CO
+742,"Detroit-Warren-Dearborn, MI",2019-09-01,,55.6,Detroit MI
+743,"Houston-The Woodlands-Sugar Land, TX",2019-09-01,,55.6,Houston TX
+744,"Los Angeles-Long Beach-Anaheim, CA",2019-09-01,90.969,55.6,Los Angeles CA
+745,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-09-01,,55.6,Miami-Ft. Lauderdale FL
+746,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-09-01,90.29,55.6,Minneapolis-St. Paul MN
+747,"New York-Newark-Jersey City, NY-NJ-PA",2019-09-01,88.904,55.6,New York NY
+748,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-09-01,,55.6,Philadelphia PA
+749,"Phoenix-Mesa-Scottsdale, AZ",2019-09-01,,55.6,Phoenix AZ
+750,"Riverside-San Bernardino-Ontario, CA",2019-09-01,99.454,55.6,
+751,"San Diego-Carlsbad, CA",2019-09-01,106.93,55.6,San Diego CA
+752,"San Francisco-Oakland-Hayward, CA",2019-09-01,,55.6,San Francisco-Oakland-San Jose CA
+753,Seattle-Tacoma-Bellevue WA,2019-09-01,,55.6,Seattle-Tacoma WA
+754,"St. Louis, MO-IL",2019-09-01,,55.6,St. Louis MO
+755,"Tampa-St. Petersburg-Clearwater, FL",2019-09-01,108.226,55.6,Tampa-St. Petersburg (Sarasota) FL
+756,Urban Alaska,2019-09-01,,55.6,Anchorage AK
+757,Urban Hawaii,2019-09-01,,55.6,Honolulu HI
+758,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-09-01,92.906,55.6,Washington DC (Hagerstown MD)
+759,"Atlanta-Sandy Springs-Roswell, GA",2019-10-01,100.254,55.5,Atlanta GA
+760,"Baltimore-Columbia-Towson, MD",2019-10-01,94.856,55.5,Baltimore MD
+761,"Boston-Cambridge-Newton, MA-NH",2019-10-01,,55.5,Boston MA-Manchester NH
+762,"Chicago-Naperville-Elgin, IL-IN-WI",2019-10-01,94.954,55.5,Chicago IL
+763,"Dallas-Fort Worth-Arlington, TX",2019-10-01,,55.5,Dallas-Ft. Worth TX
+764,"Denver-Aurora-Lakewood, CO",2019-10-01,,55.5,Denver CO
+765,"Detroit-Warren-Dearborn, MI",2019-10-01,112.594,55.5,Detroit MI
+766,"Houston-The Woodlands-Sugar Land, TX",2019-10-01,87.376,55.5,Houston TX
+767,"Los Angeles-Long Beach-Anaheim, CA",2019-10-01,91.183,55.5,Los Angeles CA
+768,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-10-01,113.716,55.5,Miami-Ft. Lauderdale FL
+769,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-10-01,,55.5,Minneapolis-St. Paul MN
+770,"New York-Newark-Jersey City, NY-NJ-PA",2019-10-01,88.875,55.5,New York NY
+771,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-10-01,99.214,55.5,Philadelphia PA
+772,"Phoenix-Mesa-Scottsdale, AZ",2019-10-01,92.519,55.5,Phoenix AZ
+773,"Riverside-San Bernardino-Ontario, CA",2019-10-01,,55.5,
+774,"San Diego-Carlsbad, CA",2019-10-01,,55.5,San Diego CA
+775,"San Francisco-Oakland-Hayward, CA",2019-10-01,95.983,55.5,San Francisco-Oakland-San Jose CA
+776,Seattle-Tacoma-Bellevue WA,2019-10-01,97.577,55.5,Seattle-Tacoma WA
+777,"St. Louis, MO-IL",2019-10-01,93.141,55.5,St. Louis MO
+778,"Tampa-St. Petersburg-Clearwater, FL",2019-10-01,,55.5,Tampa-St. Petersburg (Sarasota) FL
+779,Urban Alaska,2019-10-01,,55.5,Anchorage AK
+780,Urban Hawaii,2019-10-01,,55.5,Honolulu HI
+781,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-10-01,,55.5,Washington DC (Hagerstown MD)
+782,"Atlanta-Sandy Springs-Roswell, GA",2019-11-01,,55.5,Atlanta GA
+783,"Baltimore-Columbia-Towson, MD",2019-11-01,,55.5,Baltimore MD
+784,"Boston-Cambridge-Newton, MA-NH",2019-11-01,102.885,55.5,Boston MA-Manchester NH
+785,"Chicago-Naperville-Elgin, IL-IN-WI",2019-11-01,95.54,55.5,Chicago IL
+786,"Dallas-Fort Worth-Arlington, TX",2019-11-01,104.335,55.5,Dallas-Ft. Worth TX
+787,"Denver-Aurora-Lakewood, CO",2019-11-01,107.54,55.5,Denver CO
+788,"Detroit-Warren-Dearborn, MI",2019-11-01,,55.5,Detroit MI
+789,"Houston-The Woodlands-Sugar Land, TX",2019-11-01,,55.5,Houston TX
+790,"Los Angeles-Long Beach-Anaheim, CA",2019-11-01,90.685,55.5,Los Angeles CA
+791,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-11-01,,55.5,Miami-Ft. Lauderdale FL
+792,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-11-01,91.188,55.5,Minneapolis-St. Paul MN
+793,"New York-Newark-Jersey City, NY-NJ-PA",2019-11-01,88.651,55.5,New York NY
+794,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-11-01,,55.5,Philadelphia PA
+795,"Phoenix-Mesa-Scottsdale, AZ",2019-11-01,,55.5,Phoenix AZ
+796,"Riverside-San Bernardino-Ontario, CA",2019-11-01,100.146,55.5,
+797,"San Diego-Carlsbad, CA",2019-11-01,106.856,55.5,San Diego CA
+798,"San Francisco-Oakland-Hayward, CA",2019-11-01,,55.5,San Francisco-Oakland-San Jose CA
+799,Seattle-Tacoma-Bellevue WA,2019-11-01,,55.5,Seattle-Tacoma WA
+800,"St. Louis, MO-IL",2019-11-01,,55.5,St. Louis MO
+801,"Tampa-St. Petersburg-Clearwater, FL",2019-11-01,107.313,55.5,Tampa-St. Petersburg (Sarasota) FL
+802,Urban Alaska,2019-11-01,,55.5,Anchorage AK
+803,Urban Hawaii,2019-11-01,103.222,55.5,Honolulu HI
+804,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-11-01,92.831,55.5,Washington DC (Hagerstown MD)
+805,"Atlanta-Sandy Springs-Roswell, GA",2019-12-01,99.276,55.6,Atlanta GA
+806,"Baltimore-Columbia-Towson, MD",2019-12-01,97.565,55.6,Baltimore MD
+807,"Boston-Cambridge-Newton, MA-NH",2019-12-01,,55.6,Boston MA-Manchester NH
+808,"Chicago-Naperville-Elgin, IL-IN-WI",2019-12-01,95.953,55.6,Chicago IL
+809,"Dallas-Fort Worth-Arlington, TX",2019-12-01,,55.6,Dallas-Ft. Worth TX
+810,"Denver-Aurora-Lakewood, CO",2019-12-01,,55.6,Denver CO
+811,"Detroit-Warren-Dearborn, MI",2019-12-01,111.177,55.6,Detroit MI
+812,"Houston-The Woodlands-Sugar Land, TX",2019-12-01,87.835,55.6,Houston TX
+813,"Los Angeles-Long Beach-Anaheim, CA",2019-12-01,89.681,55.6,Los Angeles CA
+814,"Miami-Fort Lauderdale-West Palm Beach, FL",2019-12-01,114.821,55.6,Miami-Ft. Lauderdale FL
+815,"Minneapolis-St.Paul-Bloomington, MN-WI",2019-12-01,,55.6,Minneapolis-St. Paul MN
+816,"New York-Newark-Jersey City, NY-NJ-PA",2019-12-01,90.297,55.6,New York NY
+817,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019-12-01,98.294,55.6,Philadelphia PA
+818,"Phoenix-Mesa-Scottsdale, AZ",2019-12-01,93.747,55.6,Phoenix AZ
+819,"Riverside-San Bernardino-Ontario, CA",2019-12-01,,55.6,
+820,"San Diego-Carlsbad, CA",2019-12-01,,55.6,San Diego CA
+821,"San Francisco-Oakland-Hayward, CA",2019-12-01,94.248,55.6,San Francisco-Oakland-San Jose CA
+822,Seattle-Tacoma-Bellevue WA,2019-12-01,97.803,55.6,Seattle-Tacoma WA
+823,"St. Louis, MO-IL",2019-12-01,92.279,55.6,St. Louis MO
+824,"Tampa-St. Petersburg-Clearwater, FL",2019-12-01,,55.6,Tampa-St. Petersburg (Sarasota) FL
+825,Urban Alaska,2019-12-01,109.313,55.6,Anchorage AK
+826,Urban Hawaii,2019-12-01,,55.6,Honolulu HI
+827,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019-12-01,,55.6,Washington DC (Hagerstown MD)
+828,"Atlanta-Sandy Springs-Roswell, GA",2020-01-01,,55.5,Atlanta GA
+829,"Baltimore-Columbia-Towson, MD",2020-01-01,,55.5,Baltimore MD
+830,"Boston-Cambridge-Newton, MA-NH",2020-01-01,105.369,55.5,Boston MA-Manchester NH
+831,"Chicago-Naperville-Elgin, IL-IN-WI",2020-01-01,95.571,55.5,Chicago IL
+832,"Dallas-Fort Worth-Arlington, TX",2020-01-01,104.388,55.5,Dallas-Ft. Worth TX
+833,"Denver-Aurora-Lakewood, CO",2020-01-01,107.334,55.5,Denver CO
+834,"Detroit-Warren-Dearborn, MI",2020-01-01,,55.5,Detroit MI
+835,"Houston-The Woodlands-Sugar Land, TX",2020-01-01,,55.5,Houston TX
+836,"Los Angeles-Long Beach-Anaheim, CA",2020-01-01,90.689,55.5,Los Angeles CA
+837,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-01-01,,55.5,Miami-Ft. Lauderdale FL
+838,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-01-01,89.623,55.5,Minneapolis-St. Paul MN
+839,"New York-Newark-Jersey City, NY-NJ-PA",2020-01-01,90.47,55.5,New York NY
+840,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-01-01,,55.5,Philadelphia PA
+841,"Phoenix-Mesa-Scottsdale, AZ",2020-01-01,,55.5,Phoenix AZ
+842,"Riverside-San Bernardino-Ontario, CA",2020-01-01,98.503,55.5,
+843,"San Diego-Carlsbad, CA",2020-01-01,105.898,55.5,San Diego CA
+844,"San Francisco-Oakland-Hayward, CA",2020-01-01,,55.5,San Francisco-Oakland-San Jose CA
+845,Seattle-Tacoma-Bellevue WA,2020-01-01,,55.5,Seattle-Tacoma WA
+846,"St. Louis, MO-IL",2020-01-01,,55.5,St. Louis MO
+847,"Tampa-St. Petersburg-Clearwater, FL",2020-01-01,109.169,55.5,Tampa-St. Petersburg (Sarasota) FL
+848,Urban Alaska,2020-01-01,,55.5,Anchorage AK
+849,Urban Hawaii,2020-01-01,98.747,55.5,Honolulu HI
+850,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-01-01,93.224,55.5,Washington DC (Hagerstown MD)
+851,"Atlanta-Sandy Springs-Roswell, GA",2020-02-01,100.825,55.4,Atlanta GA
+852,"Baltimore-Columbia-Towson, MD",2020-02-01,96.955,55.4,Baltimore MD
+853,"Boston-Cambridge-Newton, MA-NH",2020-02-01,,55.4,Boston MA-Manchester NH
+854,"Chicago-Naperville-Elgin, IL-IN-WI",2020-02-01,96.853,55.4,Chicago IL
+855,"Dallas-Fort Worth-Arlington, TX",2020-02-01,,55.4,Dallas-Ft. Worth TX
+856,"Denver-Aurora-Lakewood, CO",2020-02-01,,55.4,Denver CO
+857,"Detroit-Warren-Dearborn, MI",2020-02-01,111.874,55.4,Detroit MI
+858,"Houston-The Woodlands-Sugar Land, TX",2020-02-01,86.724,55.4,Houston TX
+859,"Los Angeles-Long Beach-Anaheim, CA",2020-02-01,91.527,55.4,Los Angeles CA
+860,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-02-01,115.267,55.4,Miami-Ft. Lauderdale FL
+861,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-02-01,,55.4,Minneapolis-St. Paul MN
+862,"New York-Newark-Jersey City, NY-NJ-PA",2020-02-01,90.129,55.4,New York NY
+863,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-02-01,97.894,55.4,Philadelphia PA
+864,"Phoenix-Mesa-Scottsdale, AZ",2020-02-01,94.088,55.4,Phoenix AZ
+865,"Riverside-San Bernardino-Ontario, CA",2020-02-01,,55.4,
+866,"San Diego-Carlsbad, CA",2020-02-01,,55.4,San Diego CA
+867,"San Francisco-Oakland-Hayward, CA",2020-02-01,94.584,55.4,San Francisco-Oakland-San Jose CA
+868,Seattle-Tacoma-Bellevue WA,2020-02-01,100.091,55.4,Seattle-Tacoma WA
+869,"St. Louis, MO-IL",2020-02-01,90.738,55.4,St. Louis MO
+870,"Tampa-St. Petersburg-Clearwater, FL",2020-02-01,,55.4,Tampa-St. Petersburg (Sarasota) FL
+871,Urban Alaska,2020-02-01,,55.4,Anchorage AK
+872,Urban Hawaii,2020-02-01,,55.4,Honolulu HI
+873,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-02-01,,55.4,Washington DC (Hagerstown MD)
+874,"Atlanta-Sandy Springs-Roswell, GA",2020-03-01,,55.6,Atlanta GA
+875,"Baltimore-Columbia-Towson, MD",2020-03-01,,55.6,Baltimore MD
+876,"Boston-Cambridge-Newton, MA-NH",2020-03-01,,55.6,Boston MA-Manchester NH
+877,"Chicago-Naperville-Elgin, IL-IN-WI",2020-03-01,96.071,55.6,Chicago IL
+878,"Dallas-Fort Worth-Arlington, TX",2020-03-01,100.529,55.6,Dallas-Ft. Worth TX
+879,"Denver-Aurora-Lakewood, CO",2020-03-01,107.315,55.6,Denver CO
+880,"Detroit-Warren-Dearborn, MI",2020-03-01,,55.6,Detroit MI
+881,"Houston-The Woodlands-Sugar Land, TX",2020-03-01,,55.6,Houston TX
+882,"Los Angeles-Long Beach-Anaheim, CA",2020-03-01,90.78,55.6,Los Angeles CA
+883,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-03-01,,55.6,Miami-Ft. Lauderdale FL
+884,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-03-01,88.959,55.6,Minneapolis-St. Paul MN
+885,"New York-Newark-Jersey City, NY-NJ-PA",2020-03-01,91.029,55.6,New York NY
+886,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-01,,55.6,Philadelphia PA
+887,"Phoenix-Mesa-Scottsdale, AZ",2020-03-01,,55.6,Phoenix AZ
+888,"Riverside-San Bernardino-Ontario, CA",2020-03-01,99.065,55.6,
+889,"San Diego-Carlsbad, CA",2020-03-01,107.143,55.6,San Diego CA
+890,"San Francisco-Oakland-Hayward, CA",2020-03-01,,55.6,San Francisco-Oakland-San Jose CA
+891,Seattle-Tacoma-Bellevue WA,2020-03-01,,55.6,Seattle-Tacoma WA
+892,"St. Louis, MO-IL",2020-03-01,,55.6,St. Louis MO
+893,"Tampa-St. Petersburg-Clearwater, FL",2020-03-01,110.188,55.6,Tampa-St. Petersburg (Sarasota) FL
+894,Urban Alaska,2020-03-01,,55.6,Anchorage AK
+895,Urban Hawaii,2020-03-01,102.891,55.6,Honolulu HI
+896,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-01,94.007,55.6,Washington DC (Hagerstown MD)
+897,"Atlanta-Sandy Springs-Roswell, GA",2020-04-01,99.608,54.9,Atlanta GA
+898,"Baltimore-Columbia-Towson, MD",2020-04-01,97.507,54.9,Baltimore MD
+899,"Boston-Cambridge-Newton, MA-NH",2020-04-01,,54.9,Boston MA-Manchester NH
+900,"Chicago-Naperville-Elgin, IL-IN-WI",2020-04-01,97.27,54.9,Chicago IL
+901,"Dallas-Fort Worth-Arlington, TX",2020-04-01,,54.9,Dallas-Ft. Worth TX
+902,"Denver-Aurora-Lakewood, CO",2020-04-01,,54.9,Denver CO
+903,"Detroit-Warren-Dearborn, MI",2020-04-01,112.742,54.9,Detroit MI
+904,"Houston-The Woodlands-Sugar Land, TX",2020-04-01,86.91,54.9,Houston TX
+905,"Los Angeles-Long Beach-Anaheim, CA",2020-04-01,90.854,54.9,Los Angeles CA
+906,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-04-01,114.409,54.9,Miami-Ft. Lauderdale FL
+907,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-04-01,,54.9,Minneapolis-St. Paul MN
+908,"New York-Newark-Jersey City, NY-NJ-PA",2020-04-01,90.428,54.9,New York NY
+909,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-01,97.64,54.9,Philadelphia PA
+910,"Phoenix-Mesa-Scottsdale, AZ",2020-04-01,,54.9,Phoenix AZ
+911,"Riverside-San Bernardino-Ontario, CA",2020-04-01,,54.9,
+912,"San Diego-Carlsbad, CA",2020-04-01,,54.9,San Diego CA
+913,"San Francisco-Oakland-Hayward, CA",2020-04-01,93.022,54.9,San Francisco-Oakland-San Jose CA
+914,Seattle-Tacoma-Bellevue WA,2020-04-01,,54.9,Seattle-Tacoma WA
+915,"St. Louis, MO-IL",2020-04-01,91.069,54.9,St. Louis MO
+916,"Tampa-St. Petersburg-Clearwater, FL",2020-04-01,,54.9,Tampa-St. Petersburg (Sarasota) FL
+917,Urban Alaska,2020-04-01,107.221,54.9,Anchorage AK
+918,Urban Hawaii,2020-04-01,,54.9,Honolulu HI
+919,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-01,,54.9,Washington DC (Hagerstown MD)
+920,"Atlanta-Sandy Springs-Roswell, GA",2020-05-01,,54.9,Atlanta GA
+921,"Baltimore-Columbia-Towson, MD",2020-05-01,,54.9,Baltimore MD
+922,"Boston-Cambridge-Newton, MA-NH",2020-05-01,105.346,54.9,Boston MA-Manchester NH
+923,"Chicago-Naperville-Elgin, IL-IN-WI",2020-05-01,97.501,54.9,Chicago IL
+924,"Dallas-Fort Worth-Arlington, TX",2020-05-01,100.78,54.9,Dallas-Ft. Worth TX
+925,"Denver-Aurora-Lakewood, CO",2020-05-01,107.933,54.9,Denver CO
+926,"Detroit-Warren-Dearborn, MI",2020-05-01,,54.9,Detroit MI
+927,"Houston-The Woodlands-Sugar Land, TX",2020-05-01,,54.9,Houston TX
+928,"Los Angeles-Long Beach-Anaheim, CA",2020-05-01,90.029,54.9,Los Angeles CA
+929,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-05-01,,54.9,Miami-Ft. Lauderdale FL
+930,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-05-01,92.721,54.9,Minneapolis-St. Paul MN
+931,"New York-Newark-Jersey City, NY-NJ-PA",2020-05-01,93.208,54.9,New York NY
+932,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-05-01,,54.9,Philadelphia PA
+933,"Phoenix-Mesa-Scottsdale, AZ",2020-05-01,,54.9,Phoenix AZ
+934,"Riverside-San Bernardino-Ontario, CA",2020-05-01,96.735,54.9,
+935,"San Diego-Carlsbad, CA",2020-05-01,104.66,54.9,San Diego CA
+936,"San Francisco-Oakland-Hayward, CA",2020-05-01,,54.9,San Francisco-Oakland-San Jose CA
+937,Seattle-Tacoma-Bellevue WA,2020-05-01,,54.9,Seattle-Tacoma WA
+938,"St. Louis, MO-IL",2020-05-01,,54.9,St. Louis MO
+939,"Tampa-St. Petersburg-Clearwater, FL",2020-05-01,109.457,54.9,Tampa-St. Petersburg (Sarasota) FL
+940,Urban Alaska,2020-05-01,,54.9,Anchorage AK
+941,Urban Hawaii,2020-05-01,101.135,54.9,Honolulu HI
+942,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-05-01,92.793,54.9,Washington DC (Hagerstown MD)
+943,"Atlanta-Sandy Springs-Roswell, GA",2020-06-01,101.679,54.9,Atlanta GA
+944,"Baltimore-Columbia-Towson, MD",2020-06-01,95.991,54.9,Baltimore MD
+945,"Boston-Cambridge-Newton, MA-NH",2020-06-01,,54.9,Boston MA-Manchester NH
+946,"Chicago-Naperville-Elgin, IL-IN-WI",2020-06-01,97.171,54.9,Chicago IL
+947,"Dallas-Fort Worth-Arlington, TX",2020-06-01,,54.9,Dallas-Ft. Worth TX
+948,"Denver-Aurora-Lakewood, CO",2020-06-01,,54.9,Denver CO
+949,"Detroit-Warren-Dearborn, MI",2020-06-01,,54.9,Detroit MI
+950,"Houston-The Woodlands-Sugar Land, TX",2020-06-01,86.248,54.9,Houston TX
+951,"Los Angeles-Long Beach-Anaheim, CA",2020-06-01,89.615,54.9,Los Angeles CA
+952,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-06-01,113.955,54.9,Miami-Ft. Lauderdale FL
+953,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-06-01,,54.9,Minneapolis-St. Paul MN
+954,"New York-Newark-Jersey City, NY-NJ-PA",2020-06-01,93.299,54.9,New York NY
+955,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-06-01,97.625,54.9,Philadelphia PA
+956,"Phoenix-Mesa-Scottsdale, AZ",2020-06-01,,54.9,Phoenix AZ
+957,"Riverside-San Bernardino-Ontario, CA",2020-06-01,,54.9,
+958,"San Diego-Carlsbad, CA",2020-06-01,,54.9,San Diego CA
+959,"San Francisco-Oakland-Hayward, CA",2020-06-01,92.706,54.9,San Francisco-Oakland-San Jose CA
+960,Seattle-Tacoma-Bellevue WA,2020-06-01,97.548,54.9,Seattle-Tacoma WA
+961,"St. Louis, MO-IL",2020-06-01,91.295,54.9,St. Louis MO
+962,"Tampa-St. Petersburg-Clearwater, FL",2020-06-01,,54.9,Tampa-St. Petersburg (Sarasota) FL
+963,Urban Alaska,2020-06-01,,54.9,Anchorage AK
+964,Urban Hawaii,2020-06-01,,54.9,Honolulu HI
+965,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-06-01,,54.9,Washington DC (Hagerstown MD)
+966,"Atlanta-Sandy Springs-Roswell, GA",2020-07-01,,54.7,Atlanta GA
+967,"Baltimore-Columbia-Towson, MD",2020-07-01,,54.7,Baltimore MD
+968,"Boston-Cambridge-Newton, MA-NH",2020-07-01,105.263,54.7,Boston MA-Manchester NH
+969,"Chicago-Naperville-Elgin, IL-IN-WI",2020-07-01,98.477,54.7,Chicago IL
+970,"Dallas-Fort Worth-Arlington, TX",2020-07-01,102.695,54.7,Dallas-Ft. Worth TX
+971,"Denver-Aurora-Lakewood, CO",2020-07-01,108.975,54.7,Denver CO
+972,"Detroit-Warren-Dearborn, MI",2020-07-01,,54.7,Detroit MI
+973,"Houston-The Woodlands-Sugar Land, TX",2020-07-01,,54.7,Houston TX
+974,"Los Angeles-Long Beach-Anaheim, CA",2020-07-01,89.794,54.7,Los Angeles CA
+975,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-07-01,,54.7,Miami-Ft. Lauderdale FL
+976,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-07-01,92.463,54.7,Minneapolis-St. Paul MN
+977,"New York-Newark-Jersey City, NY-NJ-PA",2020-07-01,93.556,54.7,New York NY
+978,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-07-01,,54.7,Philadelphia PA
+979,"Phoenix-Mesa-Scottsdale, AZ",2020-07-01,,54.7,Phoenix AZ
+980,"Riverside-San Bernardino-Ontario, CA",2020-07-01,97.758,54.7,
+981,"San Diego-Carlsbad, CA",2020-07-01,107.622,54.7,San Diego CA
+982,"San Francisco-Oakland-Hayward, CA",2020-07-01,,54.7,San Francisco-Oakland-San Jose CA
+983,Seattle-Tacoma-Bellevue WA,2020-07-01,,54.7,Seattle-Tacoma WA
+984,"St. Louis, MO-IL",2020-07-01,,54.7,St. Louis MO
+985,"Tampa-St. Petersburg-Clearwater, FL",2020-07-01,107.104,54.7,Tampa-St. Petersburg (Sarasota) FL
+986,Urban Alaska,2020-07-01,,54.7,Anchorage AK
+987,Urban Hawaii,2020-07-01,101.126,54.7,Honolulu HI
+988,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-07-01,94.968,54.7,Washington DC (Hagerstown MD)
+989,"Atlanta-Sandy Springs-Roswell, GA",2020-08-01,106.158,54.6,Atlanta GA
+990,"Baltimore-Columbia-Towson, MD",2020-08-01,98.673,54.6,Baltimore MD
+991,"Boston-Cambridge-Newton, MA-NH",2020-08-01,,54.6,Boston MA-Manchester NH
+992,"Chicago-Naperville-Elgin, IL-IN-WI",2020-08-01,98.531,54.6,Chicago IL
+993,"Dallas-Fort Worth-Arlington, TX",2020-08-01,,54.6,Dallas-Ft. Worth TX
+994,"Denver-Aurora-Lakewood, CO",2020-08-01,,54.6,Denver CO
+995,"Detroit-Warren-Dearborn, MI",2020-08-01,,54.6,Detroit MI
+996,"Houston-The Woodlands-Sugar Land, TX",2020-08-01,87.421,54.6,Houston TX
+997,"Los Angeles-Long Beach-Anaheim, CA",2020-08-01,89.904,54.6,Los Angeles CA
+998,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-08-01,119.571,54.6,Miami-Ft. Lauderdale FL
+999,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-08-01,,54.6,Minneapolis-St. Paul MN
+1000,"New York-Newark-Jersey City, NY-NJ-PA",2020-08-01,94.374,54.6,New York NY
+1001,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-08-01,100.092,54.6,Philadelphia PA
+1002,"Phoenix-Mesa-Scottsdale, AZ",2020-08-01,95.692,54.6,Phoenix AZ
+1003,"Riverside-San Bernardino-Ontario, CA",2020-08-01,,54.6,
+1004,"San Diego-Carlsbad, CA",2020-08-01,,54.6,San Diego CA
+1005,"San Francisco-Oakland-Hayward, CA",2020-08-01,93.619,54.6,San Francisco-Oakland-San Jose CA
+1006,Seattle-Tacoma-Bellevue WA,2020-08-01,101.211,54.6,Seattle-Tacoma WA
+1007,"St. Louis, MO-IL",2020-08-01,94.438,54.6,St. Louis MO
+1008,"Tampa-St. Petersburg-Clearwater, FL",2020-08-01,,54.6,Tampa-St. Petersburg (Sarasota) FL
+1009,Urban Alaska,2020-08-01,,54.6,Anchorage AK
+1010,Urban Hawaii,2020-08-01,,54.6,Honolulu HI
+1011,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-08-01,,54.6,Washington DC (Hagerstown MD)
+1012,"Atlanta-Sandy Springs-Roswell, GA",2020-09-01,,54.7,Atlanta GA
+1013,"Baltimore-Columbia-Towson, MD",2020-09-01,,54.7,Baltimore MD
+1014,"Boston-Cambridge-Newton, MA-NH",2020-09-01,103.868,54.7,Boston MA-Manchester NH
+1015,"Chicago-Naperville-Elgin, IL-IN-WI",2020-09-01,98.567,54.7,Chicago IL
+1016,"Dallas-Fort Worth-Arlington, TX",2020-09-01,105.526,54.7,Dallas-Ft. Worth TX
+1017,"Denver-Aurora-Lakewood, CO",2020-09-01,110.535,54.7,Denver CO
+1018,"Detroit-Warren-Dearborn, MI",2020-09-01,,54.7,Detroit MI
+1019,"Houston-The Woodlands-Sugar Land, TX",2020-09-01,,54.7,Houston TX
+1020,"Los Angeles-Long Beach-Anaheim, CA",2020-09-01,88.25,54.7,Los Angeles CA
+1021,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-09-01,,54.7,Miami-Ft. Lauderdale FL
+1022,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-09-01,93.893,54.7,Minneapolis-St. Paul MN
+1023,"New York-Newark-Jersey City, NY-NJ-PA",2020-09-01,94.067,54.7,New York NY
+1024,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-09-01,,54.7,Philadelphia PA
+1025,"Phoenix-Mesa-Scottsdale, AZ",2020-09-01,,54.7,Phoenix AZ
+1026,"Riverside-San Bernardino-Ontario, CA",2020-09-01,96.256,54.7,
+1027,"San Diego-Carlsbad, CA",2020-09-01,108.57,54.7,San Diego CA
+1028,"San Francisco-Oakland-Hayward, CA",2020-09-01,,54.7,San Francisco-Oakland-San Jose CA
+1029,Seattle-Tacoma-Bellevue WA,2020-09-01,,54.7,Seattle-Tacoma WA
+1030,"St. Louis, MO-IL",2020-09-01,,54.7,St. Louis MO
+1031,"Tampa-St. Petersburg-Clearwater, FL",2020-09-01,109.112,54.7,Tampa-St. Petersburg (Sarasota) FL
+1032,Urban Alaska,2020-09-01,,54.7,Anchorage AK
+1033,Urban Hawaii,2020-09-01,103.666,54.7,Honolulu HI
+1034,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-09-01,96.38,54.7,Washington DC (Hagerstown MD)
+1035,"Atlanta-Sandy Springs-Roswell, GA",2020-10-01,108.241,53.8,Atlanta GA
+1036,"Baltimore-Columbia-Towson, MD",2020-10-01,98.967,53.8,Baltimore MD
+1037,"Boston-Cambridge-Newton, MA-NH",2020-10-01,,53.8,Boston MA-Manchester NH
+1038,"Chicago-Naperville-Elgin, IL-IN-WI",2020-10-01,99.785,53.8,Chicago IL
+1039,"Dallas-Fort Worth-Arlington, TX",2020-10-01,,53.8,Dallas-Ft. Worth TX
+1040,"Denver-Aurora-Lakewood, CO",2020-10-01,,53.8,Denver CO
+1041,"Detroit-Warren-Dearborn, MI",2020-10-01,,53.8,Detroit MI
+1042,"Houston-The Woodlands-Sugar Land, TX",2020-10-01,88.71,53.8,Houston TX
+1043,"Los Angeles-Long Beach-Anaheim, CA",2020-10-01,87.585,53.8,Los Angeles CA
+1044,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-10-01,118.921,53.8,Miami-Ft. Lauderdale FL
+1045,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-10-01,,53.8,Minneapolis-St. Paul MN
+1046,"New York-Newark-Jersey City, NY-NJ-PA",2020-10-01,94.748,53.8,New York NY
+1047,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-10-01,103.127,53.8,Philadelphia PA
+1048,"Phoenix-Mesa-Scottsdale, AZ",2020-10-01,95.196,53.8,Phoenix AZ
+1049,"Riverside-San Bernardino-Ontario, CA",2020-10-01,,53.8,
+1050,"San Diego-Carlsbad, CA",2020-10-01,,53.8,San Diego CA
+1051,"San Francisco-Oakland-Hayward, CA",2020-10-01,93.468,53.8,San Francisco-Oakland-San Jose CA
+1052,Seattle-Tacoma-Bellevue WA,2020-10-01,101.05,53.8,Seattle-Tacoma WA
+1053,"St. Louis, MO-IL",2020-10-01,95.578,53.8,St. Louis MO
+1054,"Tampa-St. Petersburg-Clearwater, FL",2020-10-01,,53.8,Tampa-St. Petersburg (Sarasota) FL
+1055,Urban Alaska,2020-10-01,113.833,53.8,Anchorage AK
+1056,Urban Hawaii,2020-10-01,,53.8,Honolulu HI
+1057,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-10-01,,53.8,Washington DC (Hagerstown MD)
+1058,"Atlanta-Sandy Springs-Roswell, GA",2020-11-01,,53.9,Atlanta GA
+1059,"Baltimore-Columbia-Towson, MD",2020-11-01,,53.9,Baltimore MD
+1060,"Boston-Cambridge-Newton, MA-NH",2020-11-01,108.971,53.9,Boston MA-Manchester NH
+1061,"Chicago-Naperville-Elgin, IL-IN-WI",2020-11-01,98.505,53.9,Chicago IL
+1062,"Dallas-Fort Worth-Arlington, TX",2020-11-01,104.007,53.9,Dallas-Ft. Worth TX
+1063,"Denver-Aurora-Lakewood, CO",2020-11-01,109.016,53.9,Denver CO
+1064,"Detroit-Warren-Dearborn, MI",2020-11-01,,53.9,Detroit MI
+1065,"Houston-The Woodlands-Sugar Land, TX",2020-11-01,,53.9,Houston TX
+1066,"Los Angeles-Long Beach-Anaheim, CA",2020-11-01,91.44,53.9,Los Angeles CA
+1067,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-11-01,,53.9,Miami-Ft. Lauderdale FL
+1068,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-11-01,94.833,53.9,Minneapolis-St. Paul MN
+1069,"New York-Newark-Jersey City, NY-NJ-PA",2020-11-01,94.648,53.9,New York NY
+1070,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-11-01,,53.9,Philadelphia PA
+1071,"Phoenix-Mesa-Scottsdale, AZ",2020-11-01,,53.9,Phoenix AZ
+1072,"Riverside-San Bernardino-Ontario, CA",2020-11-01,99.44,53.9,
+1073,"San Diego-Carlsbad, CA",2020-11-01,111.202,53.9,San Diego CA
+1074,"San Francisco-Oakland-Hayward, CA",2020-11-01,,53.9,San Francisco-Oakland-San Jose CA
+1075,Seattle-Tacoma-Bellevue WA,2020-11-01,,53.9,Seattle-Tacoma WA
+1076,"St. Louis, MO-IL",2020-11-01,,53.9,St. Louis MO
+1077,"Tampa-St. Petersburg-Clearwater, FL",2020-11-01,113.283,53.9,Tampa-St. Petersburg (Sarasota) FL
+1078,Urban Alaska,2020-11-01,,53.9,Anchorage AK
+1079,Urban Hawaii,2020-11-01,108.79,53.9,Honolulu HI
+1080,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-11-01,97.236,53.9,Washington DC (Hagerstown MD)
+1081,"Atlanta-Sandy Springs-Roswell, GA",2020-12-01,107.057,54.1,Atlanta GA
+1082,"Baltimore-Columbia-Towson, MD",2020-12-01,100.98,54.1,Baltimore MD
+1083,"Boston-Cambridge-Newton, MA-NH",2020-12-01,,54.1,Boston MA-Manchester NH
+1084,"Chicago-Naperville-Elgin, IL-IN-WI",2020-12-01,98.913,54.1,Chicago IL
+1085,"Dallas-Fort Worth-Arlington, TX",2020-12-01,,54.1,Dallas-Ft. Worth TX
+1086,"Denver-Aurora-Lakewood, CO",2020-12-01,,54.1,Denver CO
+1087,"Detroit-Warren-Dearborn, MI",2020-12-01,,54.1,Detroit MI
+1088,"Houston-The Woodlands-Sugar Land, TX",2020-12-01,88.611,54.1,Houston TX
+1089,"Los Angeles-Long Beach-Anaheim, CA",2020-12-01,92.134,54.1,Los Angeles CA
+1090,"Miami-Fort Lauderdale-West Palm Beach, FL",2020-12-01,119.004,54.1,Miami-Ft. Lauderdale FL
+1091,"Minneapolis-St.Paul-Bloomington, MN-WI",2020-12-01,,54.1,Minneapolis-St. Paul MN
+1092,"New York-Newark-Jersey City, NY-NJ-PA",2020-12-01,95.119,54.1,New York NY
+1093,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-12-01,99.813,54.1,Philadelphia PA
+1094,"Phoenix-Mesa-Scottsdale, AZ",2020-12-01,,54.1,Phoenix AZ
+1095,"Riverside-San Bernardino-Ontario, CA",2020-12-01,,54.1,
+1096,"San Diego-Carlsbad, CA",2020-12-01,,54.1,San Diego CA
+1097,"San Francisco-Oakland-Hayward, CA",2020-12-01,99.226,54.1,San Francisco-Oakland-San Jose CA
+1098,Seattle-Tacoma-Bellevue WA,2020-12-01,100.81,54.1,Seattle-Tacoma WA
+1099,"St. Louis, MO-IL",2020-12-01,96.331,54.1,St. Louis MO
+1100,"Tampa-St. Petersburg-Clearwater, FL",2020-12-01,,54.1,Tampa-St. Petersburg (Sarasota) FL
+1101,Urban Alaska,2020-12-01,111.627,54.1,Anchorage AK
+1102,Urban Hawaii,2020-12-01,,54.1,Honolulu HI
+1103,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-12-01,,54.1,Washington DC (Hagerstown MD)
+1104,"Atlanta-Sandy Springs-Roswell, GA",2021-01-01,,54.1,Atlanta GA
+1105,"Baltimore-Columbia-Towson, MD",2021-01-01,,54.1,Baltimore MD
+1106,"Boston-Cambridge-Newton, MA-NH",2021-01-01,108.87,54.1,Boston MA-Manchester NH
+1107,"Chicago-Naperville-Elgin, IL-IN-WI",2021-01-01,98.78,54.1,Chicago IL
+1108,"Dallas-Fort Worth-Arlington, TX",2021-01-01,109.175,54.1,Dallas-Ft. Worth TX
+1109,"Denver-Aurora-Lakewood, CO",2021-01-01,107.208,54.1,Denver CO
+1110,"Detroit-Warren-Dearborn, MI",2021-01-01,,54.1,Detroit MI
+1111,"Houston-The Woodlands-Sugar Land, TX",2021-01-01,,54.1,Houston TX
+1112,"Los Angeles-Long Beach-Anaheim, CA",2021-01-01,91.787,54.1,Los Angeles CA
+1113,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-01-01,,54.1,Miami-Ft. Lauderdale FL
+1114,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-01-01,92.919,54.1,Minneapolis-St. Paul MN
+1115,"New York-Newark-Jersey City, NY-NJ-PA",2021-01-01,94.686,54.1,New York NY
+1116,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-01-01,,54.1,Philadelphia PA
+1117,"Phoenix-Mesa-Scottsdale, AZ",2021-01-01,,54.1,Phoenix AZ
+1118,"Riverside-San Bernardino-Ontario, CA",2021-01-01,100.281,54.1,
+1119,"San Diego-Carlsbad, CA",2021-01-01,112.328,54.1,San Diego CA
+1120,"San Francisco-Oakland-Hayward, CA",2021-01-01,,54.1,San Francisco-Oakland-San Jose CA
+1121,Seattle-Tacoma-Bellevue WA,2021-01-01,,54.1,Seattle-Tacoma WA
+1122,"St. Louis, MO-IL",2021-01-01,,54.1,St. Louis MO
+1123,"Tampa-St. Petersburg-Clearwater, FL",2021-01-01,111.326,54.1,Tampa-St. Petersburg (Sarasota) FL
+1124,Urban Alaska,2021-01-01,,54.1,Anchorage AK
+1125,Urban Hawaii,2021-01-01,105.138,54.1,Honolulu HI
+1126,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-01-01,96.789,54.1,Washington DC (Hagerstown MD)
+1127,"Atlanta-Sandy Springs-Roswell, GA",2021-02-01,106.392,54.1,Atlanta GA
+1128,"Baltimore-Columbia-Towson, MD",2021-02-01,97.727,54.1,Baltimore MD
+1129,"Boston-Cambridge-Newton, MA-NH",2021-02-01,,54.1,Boston MA-Manchester NH
+1130,"Chicago-Naperville-Elgin, IL-IN-WI",2021-02-01,99.255,54.1,Chicago IL
+1131,"Dallas-Fort Worth-Arlington, TX",2021-02-01,,54.1,Dallas-Ft. Worth TX
+1132,"Denver-Aurora-Lakewood, CO",2021-02-01,,54.1,Denver CO
+1133,"Detroit-Warren-Dearborn, MI",2021-02-01,,54.1,Detroit MI
+1134,"Houston-The Woodlands-Sugar Land, TX",2021-02-01,90.93,54.1,Houston TX
+1135,"Los Angeles-Long Beach-Anaheim, CA",2021-02-01,92.547,54.1,Los Angeles CA
+1136,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-02-01,116.49,54.1,Miami-Ft. Lauderdale FL
+1137,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-02-01,,54.1,Minneapolis-St. Paul MN
+1138,"New York-Newark-Jersey City, NY-NJ-PA",2021-02-01,95.783,54.1,New York NY
+1139,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-02-01,100.711,54.1,Philadelphia PA
+1140,"Phoenix-Mesa-Scottsdale, AZ",2021-02-01,,54.1,Phoenix AZ
+1141,"Riverside-San Bernardino-Ontario, CA",2021-02-01,,54.1,
+1142,"San Diego-Carlsbad, CA",2021-02-01,,54.1,San Diego CA
+1143,"San Francisco-Oakland-Hayward, CA",2021-02-01,97.889,54.1,San Francisco-Oakland-San Jose CA
+1144,Seattle-Tacoma-Bellevue WA,2021-02-01,99.898,54.1,Seattle-Tacoma WA
+1145,"St. Louis, MO-IL",2021-02-01,96.793,54.1,St. Louis MO
+1146,"Tampa-St. Petersburg-Clearwater, FL",2021-02-01,,54.1,Tampa-St. Petersburg (Sarasota) FL
+1147,Urban Alaska,2021-02-01,116.517,54.1,Anchorage AK
+1148,Urban Hawaii,2021-02-01,,54.1,Honolulu HI
+1149,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-02-01,,54.1,Washington DC (Hagerstown MD)
+1150,"Atlanta-Sandy Springs-Roswell, GA",2021-03-01,,54.3,Atlanta GA
+1151,"Baltimore-Columbia-Towson, MD",2021-03-01,,54.3,Baltimore MD
+1152,"Boston-Cambridge-Newton, MA-NH",2021-03-01,112.018,54.3,Boston MA-Manchester NH
+1153,"Chicago-Naperville-Elgin, IL-IN-WI",2021-03-01,100.995,54.3,Chicago IL
+1154,"Dallas-Fort Worth-Arlington, TX",2021-03-01,112.2,54.3,Dallas-Ft. Worth TX
+1155,"Denver-Aurora-Lakewood, CO",2021-03-01,105.028,54.3,Denver CO
+1156,"Detroit-Warren-Dearborn, MI",2021-03-01,,54.3,Detroit MI
+1157,"Houston-The Woodlands-Sugar Land, TX",2021-03-01,,54.3,Houston TX
+1158,"Los Angeles-Long Beach-Anaheim, CA",2021-03-01,91.675,54.3,Los Angeles CA
+1159,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-03-01,,54.3,Miami-Ft. Lauderdale FL
+1160,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-03-01,94.798,54.3,Minneapolis-St. Paul MN
+1161,"New York-Newark-Jersey City, NY-NJ-PA",2021-03-01,99.374,54.3,New York NY
+1162,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-03-01,,54.3,Philadelphia PA
+1163,"Phoenix-Mesa-Scottsdale, AZ",2021-03-01,,54.3,Phoenix AZ
+1164,"Riverside-San Bernardino-Ontario, CA",2021-03-01,99.864,54.3,
+1165,"San Diego-Carlsbad, CA",2021-03-01,114.069,54.3,San Diego CA
+1166,"San Francisco-Oakland-Hayward, CA",2021-03-01,,54.3,San Francisco-Oakland-San Jose CA
+1167,Seattle-Tacoma-Bellevue WA,2021-03-01,,54.3,Seattle-Tacoma WA
+1168,"St. Louis, MO-IL",2021-03-01,,54.3,St. Louis MO
+1169,"Tampa-St. Petersburg-Clearwater, FL",2021-03-01,114.81,54.3,Tampa-St. Petersburg (Sarasota) FL
+1170,Urban Alaska,2021-03-01,,54.3,Anchorage AK
+1171,Urban Hawaii,2021-03-01,106.499,54.3,Honolulu HI
+1172,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-03-01,97.749,54.3,Washington DC (Hagerstown MD)
+1173,"Atlanta-Sandy Springs-Roswell, GA",2021-04-01,,54.2,Atlanta GA
+1174,"Baltimore-Columbia-Towson, MD",2021-04-01,106.495,54.2,Baltimore MD
+1175,"Boston-Cambridge-Newton, MA-NH",2021-04-01,,54.2,Boston MA-Manchester NH
+1176,"Chicago-Naperville-Elgin, IL-IN-WI",2021-04-01,102.787,54.2,Chicago IL
+1177,"Dallas-Fort Worth-Arlington, TX",2021-04-01,,54.2,Dallas-Ft. Worth TX
+1178,"Denver-Aurora-Lakewood, CO",2021-04-01,,54.2,Denver CO
+1179,"Detroit-Warren-Dearborn, MI",2021-04-01,,54.2,Detroit MI
+1180,"Houston-The Woodlands-Sugar Land, TX",2021-04-01,94.632,54.2,Houston TX
+1181,"Los Angeles-Long Beach-Anaheim, CA",2021-04-01,96.073,54.2,Los Angeles CA
+1182,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-04-01,121.382,54.2,Miami-Ft. Lauderdale FL
+1183,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-04-01,,54.2,Minneapolis-St. Paul MN
+1184,"New York-Newark-Jersey City, NY-NJ-PA",2021-04-01,103.688,54.2,New York NY
+1185,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-04-01,108.42,54.2,Philadelphia PA
+1186,"Phoenix-Mesa-Scottsdale, AZ",2021-04-01,,54.2,Phoenix AZ
+1187,"Riverside-San Bernardino-Ontario, CA",2021-04-01,,54.2,
+1188,"San Diego-Carlsbad, CA",2021-04-01,,54.2,San Diego CA
+1189,"San Francisco-Oakland-Hayward, CA",2021-04-01,,54.2,San Francisco-Oakland-San Jose CA
+1190,Seattle-Tacoma-Bellevue WA,2021-04-01,105.522,54.2,Seattle-Tacoma WA
+1191,"St. Louis, MO-IL",2021-04-01,103.373,54.2,St. Louis MO
+1192,"Tampa-St. Petersburg-Clearwater, FL",2021-04-01,,54.2,Tampa-St. Petersburg (Sarasota) FL
+1193,Urban Alaska,2021-04-01,121.453,54.2,Anchorage AK
+1194,Urban Hawaii,2021-04-01,,54.2,Honolulu HI
+1195,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-04-01,,54.2,Washington DC (Hagerstown MD)
+1196,"Atlanta-Sandy Springs-Roswell, GA",2021-05-01,,54.5,Atlanta GA
+1197,"Baltimore-Columbia-Towson, MD",2021-05-01,,54.5,Baltimore MD
+1198,"Boston-Cambridge-Newton, MA-NH",2021-05-01,120.889,54.5,Boston MA-Manchester NH
+1199,"Chicago-Naperville-Elgin, IL-IN-WI",2021-05-01,105.236,54.5,Chicago IL
+1200,"Dallas-Fort Worth-Arlington, TX",2021-05-01,120.311,54.5,Dallas-Ft. Worth TX
+1201,"Denver-Aurora-Lakewood, CO",2021-05-01,,54.5,Denver CO
+1202,"Detroit-Warren-Dearborn, MI",2021-05-01,,54.5,Detroit MI
+1203,"Houston-The Woodlands-Sugar Land, TX",2021-05-01,,54.5,Houston TX
+1204,"Los Angeles-Long Beach-Anaheim, CA",2021-05-01,98.432,54.5,Los Angeles CA
+1205,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-05-01,,54.5,Miami-Ft. Lauderdale FL
+1206,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-05-01,102.956,54.5,Minneapolis-St. Paul MN
+1207,"New York-Newark-Jersey City, NY-NJ-PA",2021-05-01,105.142,54.5,New York NY
+1208,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-05-01,,54.5,Philadelphia PA
+1209,"Phoenix-Mesa-Scottsdale, AZ",2021-05-01,,54.5,Phoenix AZ
+1210,"Riverside-San Bernardino-Ontario, CA",2021-05-01,108.655,54.5,
+1211,"San Diego-Carlsbad, CA",2021-05-01,123.453,54.5,San Diego CA
+1212,"San Francisco-Oakland-Hayward, CA",2021-05-01,,54.5,San Francisco-Oakland-San Jose CA
+1213,Seattle-Tacoma-Bellevue WA,2021-05-01,,54.5,Seattle-Tacoma WA
+1214,"St. Louis, MO-IL",2021-05-01,,54.5,St. Louis MO
+1215,"Tampa-St. Petersburg-Clearwater, FL",2021-05-01,119.677,54.5,Tampa-St. Petersburg (Sarasota) FL
+1216,Urban Alaska,2021-05-01,,54.5,Anchorage AK
+1217,Urban Hawaii,2021-05-01,114.147,54.5,Honolulu HI
+1218,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-05-01,107.464,54.5,Washington DC (Hagerstown MD)
+1219,"Atlanta-Sandy Springs-Roswell, GA",2021-06-01,125.026,54.7,Atlanta GA
+1220,"Baltimore-Columbia-Towson, MD",2021-06-01,,54.7,Baltimore MD
+1221,"Boston-Cambridge-Newton, MA-NH",2021-06-01,,54.7,Boston MA-Manchester NH
+1222,"Chicago-Naperville-Elgin, IL-IN-WI",2021-06-01,107.722,54.7,Chicago IL
+1223,"Dallas-Fort Worth-Arlington, TX",2021-06-01,,54.7,Dallas-Ft. Worth TX
+1224,"Denver-Aurora-Lakewood, CO",2021-06-01,,54.7,Denver CO
+1225,"Detroit-Warren-Dearborn, MI",2021-06-01,,54.7,Detroit MI
+1226,"Houston-The Woodlands-Sugar Land, TX",2021-06-01,102.248,54.7,Houston TX
+1227,"Los Angeles-Long Beach-Anaheim, CA",2021-06-01,101.588,54.7,Los Angeles CA
+1228,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-06-01,,54.7,Miami-Ft. Lauderdale FL
+1229,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-06-01,,54.7,Minneapolis-St. Paul MN
+1230,"New York-Newark-Jersey City, NY-NJ-PA",2021-06-01,112.83,54.7,New York NY
+1231,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-06-01,123.972,54.7,Philadelphia PA
+1232,"Phoenix-Mesa-Scottsdale, AZ",2021-06-01,,54.7,Phoenix AZ
+1233,"Riverside-San Bernardino-Ontario, CA",2021-06-01,,54.7,
+1234,"San Diego-Carlsbad, CA",2021-06-01,,54.7,San Diego CA
+1235,"San Francisco-Oakland-Hayward, CA",2021-06-01,,54.7,San Francisco-Oakland-San Jose CA
+1236,Seattle-Tacoma-Bellevue WA,2021-06-01,118.1,54.7,Seattle-Tacoma WA
+1237,"St. Louis, MO-IL",2021-06-01,111.286,54.7,St. Louis MO
+1238,"Tampa-St. Petersburg-Clearwater, FL",2021-06-01,,54.7,Tampa-St. Petersburg (Sarasota) FL
+1239,Urban Alaska,2021-06-01,,54.7,Anchorage AK
+1240,Urban Hawaii,2021-06-01,,54.7,Honolulu HI
+1241,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-06-01,,54.7,Washington DC (Hagerstown MD)
+1242,"Atlanta-Sandy Springs-Roswell, GA",2021-07-01,,54.548,Atlanta GA
+1243,"Baltimore-Columbia-Towson, MD",2021-07-01,,54.548,Baltimore MD
+1244,"Boston-Cambridge-Newton, MA-NH",2021-07-01,129.892,54.548,Boston MA-Manchester NH
+1245,"Chicago-Naperville-Elgin, IL-IN-WI",2021-07-01,108.859,54.548,Chicago IL
+1246,"Dallas-Fort Worth-Arlington, TX",2021-07-01,126.799,54.548,Dallas-Ft. Worth TX
+1247,"Denver-Aurora-Lakewood, CO",2021-07-01,123.732,54.548,Denver CO
+1248,"Detroit-Warren-Dearborn, MI",2021-07-01,,54.548,Detroit MI
+1249,"Houston-The Woodlands-Sugar Land, TX",2021-07-01,,54.548,Houston TX
+1250,"Los Angeles-Long Beach-Anaheim, CA",2021-07-01,102.565,54.548,Los Angeles CA
+1251,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-07-01,,54.548,Miami-Ft. Lauderdale FL
+1252,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-07-01,110.171,54.548,Minneapolis-St. Paul MN
+1253,"New York-Newark-Jersey City, NY-NJ-PA",2021-07-01,105.561,54.548,New York NY
+1254,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-07-01,,54.548,Philadelphia PA
+1255,"Phoenix-Mesa-Scottsdale, AZ",2021-07-01,,54.548,Phoenix AZ
+1256,"Riverside-San Bernardino-Ontario, CA",2021-07-01,114.513,54.548,
+1257,"San Diego-Carlsbad, CA",2021-07-01,128.707,54.548,San Diego CA
+1258,"San Francisco-Oakland-Hayward, CA",2021-07-01,,54.548,San Francisco-Oakland-San Jose CA
+1259,Seattle-Tacoma-Bellevue WA,2021-07-01,,54.548,Seattle-Tacoma WA
+1260,"St. Louis, MO-IL",2021-07-01,,54.548,St. Louis MO
+1261,"Tampa-St. Petersburg-Clearwater, FL",2021-07-01,124.301,54.548,Tampa-St. Petersburg (Sarasota) FL
+1262,Urban Alaska,2021-07-01,,54.548,Anchorage AK
+1263,Urban Hawaii,2021-07-01,,54.548,Honolulu HI
+1264,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-07-01,115.437,54.548,Washington DC (Hagerstown MD)
+1265,"Atlanta-Sandy Springs-Roswell, GA",2021-08-01,126,54.766,Atlanta GA
+1266,"Baltimore-Columbia-Towson, MD",2021-08-01,113.141,54.766,Baltimore MD
+1267,"Boston-Cambridge-Newton, MA-NH",2021-08-01,,54.766,Boston MA-Manchester NH
+1268,"Chicago-Naperville-Elgin, IL-IN-WI",2021-08-01,108.894,54.766,Chicago IL
+1269,"Dallas-Fort Worth-Arlington, TX",2021-08-01,,54.766,Dallas-Ft. Worth TX
+1270,"Denver-Aurora-Lakewood, CO",2021-08-01,,54.766,Denver CO
+1271,"Detroit-Warren-Dearborn, MI",2021-08-01,,54.766,Detroit MI
+1272,"Houston-The Woodlands-Sugar Land, TX",2021-08-01,100.573,54.766,Houston TX
+1273,"Los Angeles-Long Beach-Anaheim, CA",2021-08-01,102.573,54.766,Los Angeles CA
+1274,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-08-01,135.797,54.766,Miami-Ft. Lauderdale FL
+1275,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-08-01,,54.766,Minneapolis-St. Paul MN
+1276,"New York-Newark-Jersey City, NY-NJ-PA",2021-08-01,105.235,54.766,New York NY
+1277,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-08-01,124.773,54.766,Philadelphia PA
+1278,"Phoenix-Mesa-Scottsdale, AZ",2021-08-01,,54.766,Phoenix AZ
+1279,"Riverside-San Bernardino-Ontario, CA",2021-08-01,,54.766,
+1280,"San Diego-Carlsbad, CA",2021-08-01,,54.766,San Diego CA
+1281,"San Francisco-Oakland-Hayward, CA",2021-08-01,105.621,54.766,San Francisco-Oakland-San Jose CA
+1282,Seattle-Tacoma-Bellevue WA,2021-08-01,117.583,54.766,Seattle-Tacoma WA
+1283,"St. Louis, MO-IL",2021-08-01,113.093,54.766,St. Louis MO
+1284,"Tampa-St. Petersburg-Clearwater, FL",2021-08-01,,54.766,Tampa-St. Petersburg (Sarasota) FL
+1285,Urban Alaska,2021-08-01,,54.766,Anchorage AK
+1286,Urban Hawaii,2021-08-01,,54.766,Honolulu HI
+1287,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-08-01,,54.766,Washington DC (Hagerstown MD)
+1288,"Atlanta-Sandy Springs-Roswell, GA",2021-09-01,,54.875,Atlanta GA
+1289,"Baltimore-Columbia-Towson, MD",2021-09-01,,54.875,Baltimore MD
+1290,"Boston-Cambridge-Newton, MA-NH",2021-09-01,123.094,54.875,Boston MA-Manchester NH
+1291,"Chicago-Naperville-Elgin, IL-IN-WI",2021-09-01,108.192,54.875,Chicago IL
+1292,"Dallas-Fort Worth-Arlington, TX",2021-09-01,123.996,54.875,Dallas-Ft. Worth TX
+1293,"Denver-Aurora-Lakewood, CO",2021-09-01,,54.875,Denver CO
+1294,"Detroit-Warren-Dearborn, MI",2021-09-01,,54.875,Detroit MI
+1295,"Houston-The Woodlands-Sugar Land, TX",2021-09-01,,54.875,Houston TX
+1296,"Los Angeles-Long Beach-Anaheim, CA",2021-09-01,101.484,54.875,Los Angeles CA
+1297,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-09-01,,54.875,Miami-Ft. Lauderdale FL
+1298,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-09-01,111.22,54.875,Minneapolis-St. Paul MN
+1299,"New York-Newark-Jersey City, NY-NJ-PA",2021-09-01,106.315,54.875,New York NY
+1300,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-09-01,,54.875,Philadelphia PA
+1301,"Phoenix-Mesa-Scottsdale, AZ",2021-09-01,,54.875,Phoenix AZ
+1302,"Riverside-San Bernardino-Ontario, CA",2021-09-01,113.728,54.875,
+1303,"San Diego-Carlsbad, CA",2021-09-01,126.409,54.875,San Diego CA
+1304,"San Francisco-Oakland-Hayward, CA",2021-09-01,,54.875,San Francisco-Oakland-San Jose CA
+1305,Seattle-Tacoma-Bellevue WA,2021-09-01,,54.875,Seattle-Tacoma WA
+1306,"St. Louis, MO-IL",2021-09-01,,54.875,St. Louis MO
+1307,"Tampa-St. Petersburg-Clearwater, FL",2021-09-01,126.716,54.875,Tampa-St. Petersburg (Sarasota) FL
+1308,Urban Alaska,2021-09-01,,54.875,Anchorage AK
+1309,Urban Hawaii,2021-09-01,,54.875,Honolulu HI
+1310,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-09-01,113.192,54.875,Washington DC (Hagerstown MD)
+1311,"Atlanta-Sandy Springs-Roswell, GA",2021-10-01,,54.947,Atlanta GA
+1312,"Baltimore-Columbia-Towson, MD",2021-10-01,126.322,54.947,Baltimore MD
+1313,"Boston-Cambridge-Newton, MA-NH",2021-10-01,,54.947,Boston MA-Manchester NH
+1314,"Chicago-Naperville-Elgin, IL-IN-WI",2021-10-01,110.259,54.947,Chicago IL
+1315,"Dallas-Fort Worth-Arlington, TX",2021-10-01,,54.947,Dallas-Ft. Worth TX
+1316,"Denver-Aurora-Lakewood, CO",2021-10-01,,54.947,Denver CO
+1317,"Detroit-Warren-Dearborn, MI",2021-10-01,,54.947,Detroit MI
+1318,"Houston-The Woodlands-Sugar Land, TX",2021-10-01,104.187,54.947,Houston TX
+1319,"Los Angeles-Long Beach-Anaheim, CA",2021-10-01,101.788,54.947,Los Angeles CA
+1320,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-10-01,135.752,54.947,Miami-Ft. Lauderdale FL
+1321,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-10-01,,54.947,Minneapolis-St. Paul MN
+1322,"New York-Newark-Jersey City, NY-NJ-PA",2021-10-01,108.791,54.947,New York NY
+1323,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-10-01,126.106,54.947,Philadelphia PA
+1324,"Phoenix-Mesa-Scottsdale, AZ",2021-10-01,,54.947,Phoenix AZ
+1325,"Riverside-San Bernardino-Ontario, CA",2021-10-01,,54.947,
+1326,"San Diego-Carlsbad, CA",2021-10-01,,54.947,San Diego CA
+1327,"San Francisco-Oakland-Hayward, CA",2021-10-01,105.032,54.947,San Francisco-Oakland-San Jose CA
+1328,Seattle-Tacoma-Bellevue WA,2021-10-01,122.162,54.947,Seattle-Tacoma WA
+1329,"St. Louis, MO-IL",2021-10-01,111.691,54.947,St. Louis MO
+1330,"Tampa-St. Petersburg-Clearwater, FL",2021-10-01,,54.947,Tampa-St. Petersburg (Sarasota) FL
+1331,Urban Alaska,2021-10-01,129.306,54.947,Anchorage AK
+1332,Urban Hawaii,2021-10-01,,54.947,Honolulu HI
+1333,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-10-01,,54.947,Washington DC (Hagerstown MD)
+1334,"Atlanta-Sandy Springs-Roswell, GA",2021-11-01,,55.251,Atlanta GA
+1335,"Baltimore-Columbia-Towson, MD",2021-11-01,,55.251,Baltimore MD
+1336,"Boston-Cambridge-Newton, MA-NH",2021-11-01,131.202,55.251,Boston MA-Manchester NH
+1337,"Chicago-Naperville-Elgin, IL-IN-WI",2021-11-01,111.104,55.251,Chicago IL
+1338,"Dallas-Fort Worth-Arlington, TX",2021-11-01,127.134,55.251,Dallas-Ft. Worth TX
+1339,"Denver-Aurora-Lakewood, CO",2021-11-01,,55.251,Denver CO
+1340,"Detroit-Warren-Dearborn, MI",2021-11-01,,55.251,Detroit MI
+1341,"Houston-The Woodlands-Sugar Land, TX",2021-11-01,,55.251,Houston TX
+1342,"Los Angeles-Long Beach-Anaheim, CA",2021-11-01,104.08,55.251,Los Angeles CA
+1343,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-11-01,,55.251,Miami-Ft. Lauderdale FL
+1344,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-11-01,113.856,55.251,Minneapolis-St. Paul MN
+1345,"New York-Newark-Jersey City, NY-NJ-PA",2021-11-01,110.56,55.251,New York NY
+1346,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-11-01,,55.251,Philadelphia PA
+1347,"Phoenix-Mesa-Scottsdale, AZ",2021-11-01,,55.251,Phoenix AZ
+1348,"Riverside-San Bernardino-Ontario, CA",2021-11-01,116.756,55.251,
+1349,"San Diego-Carlsbad, CA",2021-11-01,128.958,55.251,San Diego CA
+1350,"San Francisco-Oakland-Hayward, CA",2021-11-01,,55.251,San Francisco-Oakland-San Jose CA
+1351,Seattle-Tacoma-Bellevue WA,2021-11-01,,55.251,Seattle-Tacoma WA
+1352,"St. Louis, MO-IL",2021-11-01,,55.251,St. Louis MO
+1353,"Tampa-St. Petersburg-Clearwater, FL",2021-11-01,131.648,55.251,Tampa-St. Petersburg (Sarasota) FL
+1354,Urban Alaska,2021-11-01,,55.251,Anchorage AK
+1355,Urban Hawaii,2021-11-01,119.712,55.251,Honolulu HI
+1356,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-11-01,118.939,55.251,Washington DC (Hagerstown MD)
+1357,"Atlanta-Sandy Springs-Roswell, GA",2021-12-01,140.048,55.42,Atlanta GA
+1358,"Baltimore-Columbia-Towson, MD",2021-12-01,136.715,55.42,Baltimore MD
+1359,"Boston-Cambridge-Newton, MA-NH",2021-12-01,,55.42,Boston MA-Manchester NH
+1360,"Chicago-Naperville-Elgin, IL-IN-WI",2021-12-01,115.68,55.42,Chicago IL
+1361,"Dallas-Fort Worth-Arlington, TX",2021-12-01,,55.42,Dallas-Ft. Worth TX
+1362,"Denver-Aurora-Lakewood, CO",2021-12-01,,55.42,Denver CO
+1363,"Detroit-Warren-Dearborn, MI",2021-12-01,,55.42,Detroit MI
+1364,"Houston-The Woodlands-Sugar Land, TX",2021-12-01,106.096,55.42,Houston TX
+1365,"Los Angeles-Long Beach-Anaheim, CA",2021-12-01,104.756,55.42,Los Angeles CA
+1366,"Miami-Fort Lauderdale-West Palm Beach, FL",2021-12-01,141.151,55.42,Miami-Ft. Lauderdale FL
+1367,"Minneapolis-St.Paul-Bloomington, MN-WI",2021-12-01,,55.42,Minneapolis-St. Paul MN
+1368,"New York-Newark-Jersey City, NY-NJ-PA",2021-12-01,112.455,55.42,New York NY
+1369,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021-12-01,128.159,55.42,Philadelphia PA
+1370,"Phoenix-Mesa-Scottsdale, AZ",2021-12-01,,55.42,Phoenix AZ
+1371,"Riverside-San Bernardino-Ontario, CA",2021-12-01,,55.42,
+1372,"San Diego-Carlsbad, CA",2021-12-01,,55.42,San Diego CA
+1373,"San Francisco-Oakland-Hayward, CA",2021-12-01,115.888,55.42,San Francisco-Oakland-San Jose CA
+1374,Seattle-Tacoma-Bellevue WA,2021-12-01,123.801,55.42,Seattle-Tacoma WA
+1375,"St. Louis, MO-IL",2021-12-01,115.733,55.42,St. Louis MO
+1376,"Tampa-St. Petersburg-Clearwater, FL",2021-12-01,,55.42,Tampa-St. Petersburg (Sarasota) FL
+1377,Urban Alaska,2021-12-01,131.841,55.42,Anchorage AK
+1378,Urban Hawaii,2021-12-01,,55.42,Honolulu HI
+1379,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021-12-01,,55.42,Washington DC (Hagerstown MD)
+1380,"Atlanta-Sandy Springs-Roswell, GA",2022-01-01,,56.336,Atlanta GA
+1381,"Baltimore-Columbia-Towson, MD",2022-01-01,,56.336,Baltimore MD
+1382,"Boston-Cambridge-Newton, MA-NH",2022-01-01,135.405,56.336,Boston MA-Manchester NH
+1383,"Chicago-Naperville-Elgin, IL-IN-WI",2022-01-01,116.825,56.336,Chicago IL
+1384,"Dallas-Fort Worth-Arlington, TX",2022-01-01,129.92,56.336,Dallas-Ft. Worth TX
+1385,"Denver-Aurora-Lakewood, CO",2022-01-01,,56.336,Denver CO
+1386,"Detroit-Warren-Dearborn, MI",2022-01-01,,56.336,Detroit MI
+1387,"Houston-The Woodlands-Sugar Land, TX",2022-01-01,,56.336,Houston TX
+1388,"Los Angeles-Long Beach-Anaheim, CA",2022-01-01,107.658,56.336,Los Angeles CA
+1389,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-01-01,,56.336,Miami-Ft. Lauderdale FL
+1390,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-01-01,114.942,56.336,Minneapolis-St. Paul MN
+1391,"New York-Newark-Jersey City, NY-NJ-PA",2022-01-01,112.077,56.336,New York NY
+1392,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-01-01,,56.336,Philadelphia PA
+1393,"Phoenix-Mesa-Scottsdale, AZ",2022-01-01,,56.336,Phoenix AZ
+1394,"Riverside-San Bernardino-Ontario, CA",2022-01-01,118.079,56.336,
+1395,"San Diego-Carlsbad, CA",2022-01-01,132.95,56.336,San Diego CA
+1396,"San Francisco-Oakland-Hayward, CA",2022-01-01,,56.336,San Francisco-Oakland-San Jose CA
+1397,Seattle-Tacoma-Bellevue WA,2022-01-01,,56.336,Seattle-Tacoma WA
+1398,"St. Louis, MO-IL",2022-01-01,,56.336,St. Louis MO
+1399,"Tampa-St. Petersburg-Clearwater, FL",2022-01-01,135.312,56.336,Tampa-St. Petersburg (Sarasota) FL
+1400,Urban Alaska,2022-01-01,,56.336,Anchorage AK
+1401,Urban Hawaii,2022-01-01,120.367,56.336,Honolulu HI
+1402,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-01-01,118.604,56.336,Washington DC (Hagerstown MD)
+1403,"Atlanta-Sandy Springs-Roswell, GA",2022-02-01,140.911,56.366,Atlanta GA
+1404,"Baltimore-Columbia-Towson, MD",2022-02-01,134.755,56.366,Baltimore MD
+1405,"Boston-Cambridge-Newton, MA-NH",2022-02-01,,56.366,Boston MA-Manchester NH
+1406,"Chicago-Naperville-Elgin, IL-IN-WI",2022-02-01,117.343,56.366,Chicago IL
+1407,"Dallas-Fort Worth-Arlington, TX",2022-02-01,,56.366,Dallas-Ft. Worth TX
+1408,"Denver-Aurora-Lakewood, CO",2022-02-01,,56.366,Denver CO
+1409,"Detroit-Warren-Dearborn, MI",2022-02-01,,56.366,Detroit MI
+1410,"Houston-The Woodlands-Sugar Land, TX",2022-02-01,107.642,56.366,Houston TX
+1411,"Los Angeles-Long Beach-Anaheim, CA",2022-02-01,108.029,56.366,Los Angeles CA
+1412,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-02-01,142.869,56.366,Miami-Ft. Lauderdale FL
+1413,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-02-01,,56.366,Minneapolis-St. Paul MN
+1414,"New York-Newark-Jersey City, NY-NJ-PA",2022-02-01,114.029,56.366,New York NY
+1415,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-02-01,129.738,56.366,Philadelphia PA
+1416,"Phoenix-Mesa-Scottsdale, AZ",2022-02-01,,56.366,Phoenix AZ
+1417,"Riverside-San Bernardino-Ontario, CA",2022-02-01,,56.366,
+1418,"San Diego-Carlsbad, CA",2022-02-01,,56.366,San Diego CA
+1419,"San Francisco-Oakland-Hayward, CA",2022-02-01,,56.366,San Francisco-Oakland-San Jose CA
+1420,Seattle-Tacoma-Bellevue WA,2022-02-01,125.576,56.366,Seattle-Tacoma WA
+1421,"St. Louis, MO-IL",2022-02-01,119.059,56.366,St. Louis MO
+1422,"Tampa-St. Petersburg-Clearwater, FL",2022-02-01,,56.366,Tampa-St. Petersburg (Sarasota) FL
+1423,Urban Alaska,2022-02-01,133.837,56.366,Anchorage AK
+1424,Urban Hawaii,2022-02-01,,56.366,Honolulu HI
+1425,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-02-01,,56.366,Washington DC (Hagerstown MD)
+1426,"Atlanta-Sandy Springs-Roswell, GA",2022-03-01,,56.726,Atlanta GA
+1427,"Baltimore-Columbia-Towson, MD",2022-03-01,,56.726,Baltimore MD
+1428,"Boston-Cambridge-Newton, MA-NH",2022-03-01,135.327,56.726,Boston MA-Manchester NH
+1429,"Chicago-Naperville-Elgin, IL-IN-WI",2022-03-01,118.006,56.726,Chicago IL
+1430,"Dallas-Fort Worth-Arlington, TX",2022-03-01,133.749,56.726,Dallas-Ft. Worth TX
+1431,"Denver-Aurora-Lakewood, CO",2022-03-01,,56.726,Denver CO
+1432,"Detroit-Warren-Dearborn, MI",2022-03-01,,56.726,Detroit MI
+1433,"Houston-The Woodlands-Sugar Land, TX",2022-03-01,,56.726,Houston TX
+1434,"Los Angeles-Long Beach-Anaheim, CA",2022-03-01,108.1,56.726,Los Angeles CA
+1435,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-03-01,,56.726,Miami-Ft. Lauderdale FL
+1436,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-03-01,115.065,56.726,Minneapolis-St. Paul MN
+1437,"New York-Newark-Jersey City, NY-NJ-PA",2022-03-01,114.712,56.726,New York NY
+1438,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-03-01,,56.726,Philadelphia PA
+1439,"Phoenix-Mesa-Scottsdale, AZ",2022-03-01,,56.726,Phoenix AZ
+1440,"Riverside-San Bernardino-Ontario, CA",2022-03-01,116.928,56.726,
+1441,"San Diego-Carlsbad, CA",2022-03-01,134.8,56.726,San Diego CA
+1442,"San Francisco-Oakland-Hayward, CA",2022-03-01,,56.726,San Francisco-Oakland-San Jose CA
+1443,Seattle-Tacoma-Bellevue WA,2022-03-01,,56.726,Seattle-Tacoma WA
+1444,"St. Louis, MO-IL",2022-03-01,,56.726,St. Louis MO
+1445,"Tampa-St. Petersburg-Clearwater, FL",2022-03-01,135.01,56.726,Tampa-St. Petersburg (Sarasota) FL
+1446,Urban Alaska,2022-03-01,,56.726,Anchorage AK
+1447,Urban Hawaii,2022-03-01,121.508,56.726,Honolulu HI
+1448,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-03-01,123.039,56.726,Washington DC (Hagerstown MD)
+1449,"Atlanta-Sandy Springs-Roswell, GA",2022-04-01,141.523,56.488,Atlanta GA
+1450,"Baltimore-Columbia-Towson, MD",2022-04-01,134.702,56.488,Baltimore MD
+1451,"Boston-Cambridge-Newton, MA-NH",2022-04-01,,56.488,Boston MA-Manchester NH
+1452,"Chicago-Naperville-Elgin, IL-IN-WI",2022-04-01,118.618,56.488,Chicago IL
+1453,"Dallas-Fort Worth-Arlington, TX",2022-04-01,,56.488,Dallas-Ft. Worth TX
+1454,"Denver-Aurora-Lakewood, CO",2022-04-01,,56.488,Denver CO
+1455,"Detroit-Warren-Dearborn, MI",2022-04-01,132.783,56.488,Detroit MI
+1456,"Houston-The Woodlands-Sugar Land, TX",2022-04-01,107.032,56.488,Houston TX
+1457,"Los Angeles-Long Beach-Anaheim, CA",2022-04-01,110.535,56.488,Los Angeles CA
+1458,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-04-01,135.582,56.488,Miami-Ft. Lauderdale FL
+1459,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-04-01,,56.488,Minneapolis-St. Paul MN
+1460,"New York-Newark-Jersey City, NY-NJ-PA",2022-04-01,121.113,56.488,New York NY
+1461,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-04-01,132.219,56.488,Philadelphia PA
+1462,"Phoenix-Mesa-Scottsdale, AZ",2022-04-01,114.81,56.488,Phoenix AZ
+1463,"Riverside-San Bernardino-Ontario, CA",2022-04-01,,56.488,
+1464,"San Diego-Carlsbad, CA",2022-04-01,,56.488,San Diego CA
+1465,"San Francisco-Oakland-Hayward, CA",2022-04-01,117.73,56.488,San Francisco-Oakland-San Jose CA
+1466,Seattle-Tacoma-Bellevue WA,2022-04-01,125.939,56.488,Seattle-Tacoma WA
+1467,"St. Louis, MO-IL",2022-04-01,119.282,56.488,St. Louis MO
+1468,"Tampa-St. Petersburg-Clearwater, FL",2022-04-01,,56.488,Tampa-St. Petersburg (Sarasota) FL
+1469,Urban Alaska,2022-04-01,133.47,56.488,Anchorage AK
+1470,Urban Hawaii,2022-04-01,,56.488,Honolulu HI
+1471,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-04-01,,56.488,Washington DC (Hagerstown MD)
+1472,"Atlanta-Sandy Springs-Roswell, GA",2022-05-01,,56.624,Atlanta GA
+1473,"Baltimore-Columbia-Towson, MD",2022-05-01,,56.624,Baltimore MD
+1474,"Boston-Cambridge-Newton, MA-NH",2022-05-01,136.123,56.624,Boston MA-Manchester NH
+1475,"Chicago-Naperville-Elgin, IL-IN-WI",2022-05-01,119.671,56.624,Chicago IL
+1476,"Dallas-Fort Worth-Arlington, TX",2022-05-01,136.557,56.624,Dallas-Ft. Worth TX
+1477,"Denver-Aurora-Lakewood, CO",2022-05-01,132.765,56.624,Denver CO
+1478,"Detroit-Warren-Dearborn, MI",2022-05-01,,56.624,Detroit MI
+1479,"Houston-The Woodlands-Sugar Land, TX",2022-05-01,,56.624,Houston TX
+1480,"Los Angeles-Long Beach-Anaheim, CA",2022-05-01,110.365,56.624,Los Angeles CA
+1481,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-05-01,,56.624,Miami-Ft. Lauderdale FL
+1482,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-05-01,115.978,56.624,Minneapolis-St. Paul MN
+1483,"New York-Newark-Jersey City, NY-NJ-PA",2022-05-01,113.437,56.624,New York NY
+1484,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-05-01,,56.624,Philadelphia PA
+1485,"Phoenix-Mesa-Scottsdale, AZ",2022-05-01,,56.624,Phoenix AZ
+1486,"Riverside-San Bernardino-Ontario, CA",2022-05-01,118.775,56.624,
+1487,"San Diego-Carlsbad, CA",2022-05-01,134.633,56.624,San Diego CA
+1488,"San Francisco-Oakland-Hayward, CA",2022-05-01,,56.624,San Francisco-Oakland-San Jose CA
+1489,Seattle-Tacoma-Bellevue WA,2022-05-01,,56.624,Seattle-Tacoma WA
+1490,"St. Louis, MO-IL",2022-05-01,,56.624,St. Louis MO
+1491,"Tampa-St. Petersburg-Clearwater, FL",2022-05-01,136.728,56.624,Tampa-St. Petersburg (Sarasota) FL
+1492,Urban Alaska,2022-05-01,,56.624,Anchorage AK
+1493,Urban Hawaii,2022-05-01,127.183,56.624,Honolulu HI
+1494,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-05-01,124.823,56.624,Washington DC (Hagerstown MD)
+1495,"Atlanta-Sandy Springs-Roswell, GA",2022-06-01,144.988,56.916,Atlanta GA
+1496,"Baltimore-Columbia-Towson, MD",2022-06-01,139.319,56.916,Baltimore MD
+1497,"Boston-Cambridge-Newton, MA-NH",2022-06-01,,56.916,Boston MA-Manchester NH
+1498,"Chicago-Naperville-Elgin, IL-IN-WI",2022-06-01,120.818,56.916,Chicago IL
+1499,"Dallas-Fort Worth-Arlington, TX",2022-06-01,,56.916,Dallas-Ft. Worth TX
+1500,"Denver-Aurora-Lakewood, CO",2022-06-01,,56.916,Denver CO
+1501,"Detroit-Warren-Dearborn, MI",2022-06-01,136.5,56.916,Detroit MI
+1502,"Houston-The Woodlands-Sugar Land, TX",2022-06-01,109.398,56.916,Houston TX
+1503,"Los Angeles-Long Beach-Anaheim, CA",2022-06-01,115.058,56.916,Los Angeles CA
+1504,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-06-01,138.039,56.916,Miami-Ft. Lauderdale FL
+1505,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-06-01,,56.916,Minneapolis-St. Paul MN
+1506,"New York-Newark-Jersey City, NY-NJ-PA",2022-06-01,126.618,56.916,New York NY
+1507,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-06-01,133.753,56.916,Philadelphia PA
+1508,"Phoenix-Mesa-Scottsdale, AZ",2022-06-01,117.878,56.916,Phoenix AZ
+1509,"Riverside-San Bernardino-Ontario, CA",2022-06-01,,56.916,
+1510,"San Diego-Carlsbad, CA",2022-06-01,,56.916,San Diego CA
+1511,"San Francisco-Oakland-Hayward, CA",2022-06-01,120.244,56.916,San Francisco-Oakland-San Jose CA
+1512,Seattle-Tacoma-Bellevue WA,2022-06-01,127.216,56.916,Seattle-Tacoma WA
+1513,"St. Louis, MO-IL",2022-06-01,122.293,56.916,St. Louis MO
+1514,"Tampa-St. Petersburg-Clearwater, FL",2022-06-01,,56.916,Tampa-St. Petersburg (Sarasota) FL
+1515,Urban Alaska,2022-06-01,135.564,56.916,Anchorage AK
+1516,Urban Hawaii,2022-06-01,,56.916,Honolulu HI
+1517,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-06-01,,56.916,Washington DC (Hagerstown MD)
+1518,"Atlanta-Sandy Springs-Roswell, GA",2022-07-01,,56.804,Atlanta GA
+1519,"Baltimore-Columbia-Towson, MD",2022-07-01,,56.804,Baltimore MD
+1520,"Boston-Cambridge-Newton, MA-NH",2022-07-01,139.57,56.804,Boston MA-Manchester NH
+1521,"Chicago-Naperville-Elgin, IL-IN-WI",2022-07-01,121.498,56.804,Chicago IL
+1522,"Dallas-Fort Worth-Arlington, TX",2022-07-01,139.43,56.804,Dallas-Ft. Worth TX
+1523,"Denver-Aurora-Lakewood, CO",2022-07-01,134.964,56.804,Denver CO
+1524,"Detroit-Warren-Dearborn, MI",2022-07-01,,56.804,Detroit MI
+1525,"Houston-The Woodlands-Sugar Land, TX",2022-07-01,,56.804,Houston TX
+1526,"Los Angeles-Long Beach-Anaheim, CA",2022-07-01,116.193,56.804,Los Angeles CA
+1527,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-07-01,,56.804,Miami-Ft. Lauderdale FL
+1528,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-07-01,118.725,56.804,Minneapolis-St. Paul MN
+1529,"New York-Newark-Jersey City, NY-NJ-PA",2022-07-01,121.921,56.804,New York NY
+1530,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-07-01,,56.804,Philadelphia PA
+1531,"Phoenix-Mesa-Scottsdale, AZ",2022-07-01,,56.804,Phoenix AZ
+1532,"Riverside-San Bernardino-Ontario, CA",2022-07-01,121.458,56.804,
+1533,"San Diego-Carlsbad, CA",2022-07-01,138.953,56.804,San Diego CA
+1534,"San Francisco-Oakland-Hayward, CA",2022-07-01,,56.804,San Francisco-Oakland-San Jose CA
+1535,Seattle-Tacoma-Bellevue WA,2022-07-01,,56.804,Seattle-Tacoma WA
+1536,"St. Louis, MO-IL",2022-07-01,,56.804,St. Louis MO
+1537,"Tampa-St. Petersburg-Clearwater, FL",2022-07-01,139.257,56.804,Tampa-St. Petersburg (Sarasota) FL
+1538,Urban Alaska,2022-07-01,,56.804,Anchorage AK
+1539,Urban Hawaii,2022-07-01,129.781,56.804,Honolulu HI
+1540,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-07-01,127.866,56.804,Washington DC (Hagerstown MD)
+1541,"Atlanta-Sandy Springs-Roswell, GA",2022-08-01,145.311,56.632,Atlanta GA
+1542,"Baltimore-Columbia-Towson, MD",2022-08-01,140.132,56.632,Baltimore MD
+1543,"Boston-Cambridge-Newton, MA-NH",2022-08-01,,56.632,Boston MA-Manchester NH
+1544,"Chicago-Naperville-Elgin, IL-IN-WI",2022-08-01,121.888,56.632,Chicago IL
+1545,"Dallas-Fort Worth-Arlington, TX",2022-08-01,,56.632,Dallas-Ft. Worth TX
+1546,"Denver-Aurora-Lakewood, CO",2022-08-01,,56.632,Denver CO
+1547,"Detroit-Warren-Dearborn, MI",2022-08-01,138.866,56.632,Detroit MI
+1548,"Houston-The Woodlands-Sugar Land, TX",2022-08-01,109.674,56.632,Houston TX
+1549,"Los Angeles-Long Beach-Anaheim, CA",2022-08-01,116.345,56.632,Los Angeles CA
+1550,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-08-01,139.392,56.632,Miami-Ft. Lauderdale FL
+1551,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-08-01,,56.632,Minneapolis-St. Paul MN
+1552,"New York-Newark-Jersey City, NY-NJ-PA",2022-08-01,122.933,56.632,New York NY
+1553,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-08-01,134.622,56.632,Philadelphia PA
+1554,"Phoenix-Mesa-Scottsdale, AZ",2022-08-01,117.95,56.632,Phoenix AZ
+1555,"Riverside-San Bernardino-Ontario, CA",2022-08-01,,56.632,
+1556,"San Diego-Carlsbad, CA",2022-08-01,,56.632,San Diego CA
+1557,"San Francisco-Oakland-Hayward, CA",2022-08-01,121.083,56.632,San Francisco-Oakland-San Jose CA
+1558,Seattle-Tacoma-Bellevue WA,2022-08-01,127.788,56.632,Seattle-Tacoma WA
+1559,"St. Louis, MO-IL",2022-08-01,122.463,56.632,St. Louis MO
+1560,"Tampa-St. Petersburg-Clearwater, FL",2022-08-01,,56.632,Tampa-St. Petersburg (Sarasota) FL
+1561,Urban Alaska,2022-08-01,135.707,56.632,Anchorage AK
+1562,Urban Hawaii,2022-08-01,,56.632,Honolulu HI
+1563,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-08-01,,56.632,Washington DC (Hagerstown MD)
+1564,"Atlanta-Sandy Springs-Roswell, GA",2022-09-01,,56.822,Atlanta GA
+1565,"Baltimore-Columbia-Towson, MD",2022-09-01,,56.822,Baltimore MD
+1566,"Boston-Cambridge-Newton, MA-NH",2022-09-01,138.642,56.822,Boston MA-Manchester NH
+1567,"Chicago-Naperville-Elgin, IL-IN-WI",2022-09-01,121.333,56.822,Chicago IL
+1568,"Dallas-Fort Worth-Arlington, TX",2022-09-01,136.025,56.822,Dallas-Ft. Worth TX
+1569,"Denver-Aurora-Lakewood, CO",2022-09-01,134.301,56.822,Denver CO
+1570,"Detroit-Warren-Dearborn, MI",2022-09-01,,56.822,Detroit MI
+1571,"Houston-The Woodlands-Sugar Land, TX",2022-09-01,,56.822,Houston TX
+1572,"Los Angeles-Long Beach-Anaheim, CA",2022-09-01,116.884,56.822,Los Angeles CA
+1573,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-09-01,,56.822,Miami-Ft. Lauderdale FL
+1574,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-09-01,116.831,56.822,Minneapolis-St. Paul MN
+1575,"New York-Newark-Jersey City, NY-NJ-PA",2022-09-01,125.586,56.822,New York NY
+1576,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-09-01,,56.822,Philadelphia PA
+1577,"Phoenix-Mesa-Scottsdale, AZ",2022-09-01,,56.822,Phoenix AZ
+1578,"Riverside-San Bernardino-Ontario, CA",2022-09-01,119.05,56.822,
+1579,"San Diego-Carlsbad, CA",2022-09-01,139.023,56.822,San Diego CA
+1580,"San Francisco-Oakland-Hayward, CA",2022-09-01,,56.822,San Francisco-Oakland-San Jose CA
+1581,Seattle-Tacoma-Bellevue WA,2022-09-01,,56.822,Seattle-Tacoma WA
+1582,"St. Louis, MO-IL",2022-09-01,,56.822,St. Louis MO
+1583,"Tampa-St. Petersburg-Clearwater, FL",2022-09-01,138.188,56.822,Tampa-St. Petersburg (Sarasota) FL
+1584,Urban Alaska,2022-09-01,,56.822,Anchorage AK
+1585,Urban Hawaii,2022-09-01,127.311,56.822,Honolulu HI
+1586,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-09-01,125.998,56.822,Washington DC (Hagerstown MD)
+1587,"Atlanta-Sandy Springs-Roswell, GA",2022-10-01,140.742,57.313,Atlanta GA
+1588,"Baltimore-Columbia-Towson, MD",2022-10-01,139.806,57.313,Baltimore MD
+1589,"Boston-Cambridge-Newton, MA-NH",2022-10-01,,57.313,Boston MA-Manchester NH
+1590,"Chicago-Naperville-Elgin, IL-IN-WI",2022-10-01,120.45,57.313,Chicago IL
+1591,"Dallas-Fort Worth-Arlington, TX",2022-10-01,,57.313,Dallas-Ft. Worth TX
+1592,"Denver-Aurora-Lakewood, CO",2022-10-01,,57.313,Denver CO
+1593,"Detroit-Warren-Dearborn, MI",2022-10-01,141.863,57.313,Detroit MI
+1594,"Houston-The Woodlands-Sugar Land, TX",2022-10-01,106.62,57.313,Houston TX
+1595,"Los Angeles-Long Beach-Anaheim, CA",2022-10-01,115.38,57.313,Los Angeles CA
+1596,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-10-01,135.642,57.313,Miami-Ft. Lauderdale FL
+1597,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-10-01,,57.313,Minneapolis-St. Paul MN
+1598,"New York-Newark-Jersey City, NY-NJ-PA",2022-10-01,122.803,57.313,New York NY
+1599,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-10-01,132.684,57.313,Philadelphia PA
+1600,"Phoenix-Mesa-Scottsdale, AZ",2022-10-01,115.564,57.313,Phoenix AZ
+1601,"Riverside-San Bernardino-Ontario, CA",2022-10-01,,57.313,
+1602,"San Diego-Carlsbad, CA",2022-10-01,,57.313,San Diego CA
+1603,"San Francisco-Oakland-Hayward, CA",2022-10-01,120.852,57.313,San Francisco-Oakland-San Jose CA
+1604,Seattle-Tacoma-Bellevue WA,2022-10-01,126.833,57.313,Seattle-Tacoma WA
+1605,"St. Louis, MO-IL",2022-10-01,120.529,57.313,St. Louis MO
+1606,"Tampa-St. Petersburg-Clearwater, FL",2022-10-01,,57.313,Tampa-St. Petersburg (Sarasota) FL
+1607,Urban Alaska,2022-10-01,134.355,57.313,Anchorage AK
+1608,Urban Hawaii,2022-10-01,,57.313,Honolulu HI
+1609,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-10-01,,57.313,Washington DC (Hagerstown MD)
+1610,"Atlanta-Sandy Springs-Roswell, GA",2022-11-01,,57.591,Atlanta GA
+1611,"Baltimore-Columbia-Towson, MD",2022-11-01,,57.591,Baltimore MD
+1612,"Boston-Cambridge-Newton, MA-NH",2022-11-01,135.159,57.591,Boston MA-Manchester NH
+1613,"Chicago-Naperville-Elgin, IL-IN-WI",2022-11-01,119.281,57.591,Chicago IL
+1614,"Dallas-Fort Worth-Arlington, TX",2022-11-01,134.237,57.591,Dallas-Ft. Worth TX
+1615,"Denver-Aurora-Lakewood, CO",2022-11-01,133.181,57.591,Denver CO
+1616,"Detroit-Warren-Dearborn, MI",2022-11-01,,57.591,Detroit MI
+1617,"Houston-The Woodlands-Sugar Land, TX",2022-11-01,,57.591,Houston TX
+1618,"Los Angeles-Long Beach-Anaheim, CA",2022-11-01,113.075,57.591,Los Angeles CA
+1619,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-11-01,,57.591,Miami-Ft. Lauderdale FL
+1620,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-11-01,114.628,57.591,Minneapolis-St. Paul MN
+1621,"New York-Newark-Jersey City, NY-NJ-PA",2022-11-01,119.09,57.591,New York NY
+1622,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-11-01,,57.591,Philadelphia PA
+1623,"Phoenix-Mesa-Scottsdale, AZ",2022-11-01,,57.591,Phoenix AZ
+1624,"Riverside-San Bernardino-Ontario, CA",2022-11-01,117.932,57.591,
+1625,"San Diego-Carlsbad, CA",2022-11-01,135.144,57.591,San Diego CA
+1626,"San Francisco-Oakland-Hayward, CA",2022-11-01,,57.591,San Francisco-Oakland-San Jose CA
+1627,Seattle-Tacoma-Bellevue WA,2022-11-01,,57.591,Seattle-Tacoma WA
+1628,"St. Louis, MO-IL",2022-11-01,,57.591,St. Louis MO
+1629,"Tampa-St. Petersburg-Clearwater, FL",2022-11-01,137.564,57.591,Tampa-St. Petersburg (Sarasota) FL
+1630,Urban Alaska,2022-11-01,,57.591,Anchorage AK
+1631,Urban Hawaii,2022-11-01,126.401,57.591,Honolulu HI
+1632,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-11-01,124.816,57.591,Washington DC (Hagerstown MD)
+1633,"Atlanta-Sandy Springs-Roswell, GA",2022-12-01,136.982,57.607,Atlanta GA
+1634,"Baltimore-Columbia-Towson, MD",2022-12-01,137.374,57.607,Baltimore MD
+1635,"Boston-Cambridge-Newton, MA-NH",2022-12-01,,57.607,Boston MA-Manchester NH
+1636,"Chicago-Naperville-Elgin, IL-IN-WI",2022-12-01,118.129,57.607,Chicago IL
+1637,"Dallas-Fort Worth-Arlington, TX",2022-12-01,,57.607,Dallas-Ft. Worth TX
+1638,"Denver-Aurora-Lakewood, CO",2022-12-01,,57.607,Denver CO
+1639,"Detroit-Warren-Dearborn, MI",2022-12-01,140.07,57.607,Detroit MI
+1640,"Houston-The Woodlands-Sugar Land, TX",2022-12-01,103.067,57.607,Houston TX
+1641,"Los Angeles-Long Beach-Anaheim, CA",2022-12-01,109.26,57.607,Los Angeles CA
+1642,"Miami-Fort Lauderdale-West Palm Beach, FL",2022-12-01,132.818,57.607,Miami-Ft. Lauderdale FL
+1643,"Minneapolis-St.Paul-Bloomington, MN-WI",2022-12-01,,57.607,Minneapolis-St. Paul MN
+1644,"New York-Newark-Jersey City, NY-NJ-PA",2022-12-01,125.211,57.607,New York NY
+1645,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022-12-01,131.652,57.607,Philadelphia PA
+1646,"Phoenix-Mesa-Scottsdale, AZ",2022-12-01,111.74,57.607,Phoenix AZ
+1647,"Riverside-San Bernardino-Ontario, CA",2022-12-01,,57.607,
+1648,"San Diego-Carlsbad, CA",2022-12-01,,57.607,San Diego CA
+1649,"San Francisco-Oakland-Hayward, CA",2022-12-01,119.184,57.607,San Francisco-Oakland-San Jose CA
+1650,Seattle-Tacoma-Bellevue WA,2022-12-01,124.161,57.607,Seattle-Tacoma WA
+1651,"St. Louis, MO-IL",2022-12-01,119.102,57.607,St. Louis MO
+1652,"Tampa-St. Petersburg-Clearwater, FL",2022-12-01,,57.607,Tampa-St. Petersburg (Sarasota) FL
+1653,Urban Alaska,2022-12-01,133.315,57.607,Anchorage AK
+1654,Urban Hawaii,2022-12-01,,57.607,Honolulu HI
+1655,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022-12-01,,57.607,Washington DC (Hagerstown MD)
