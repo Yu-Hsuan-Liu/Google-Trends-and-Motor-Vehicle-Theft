@@ -55,6 +55,8 @@ All data were collected from publicly available sources, as reflected in the cod
 
 **Python 3** (data collection and preprocessing): pandas, numpy, matplotlib, requests, beautifulsoup4, selenium, webdriver-manager, pingouin, scikit-learn, openpyxl.
 
+The Selenium scraping notebook (`get_san_antonio_police_911_data.ipynb`) expects `msedgedriver.exe` in its working directory. Download the driver matching your Edge version from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/; the binary is not tracked in this repository.
+
 ## Reproducibility notes
 
 The processed CSV files needed by the manuscript are included in `Liu_Dissertation_GT_Code/`. Some file paths in the Rmd and the notebooks point to local drives (for example `D:/0dissertation_code_data/`) where the raw source downloads were stored; those paths must be adjusted to rerun the collection steps from scratch. Rendering the Rmd to PDF additionally requires the CUNY dissertation LaTeX class, a preamble file, and the BibTeX bibliography, which are not part of this repository.
